@@ -58,8 +58,11 @@
 - [🌐 Youcubed](https://www.youcubed.org/)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
 
-# 🚩 MIT Math Subjects Overview
+# 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+- [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
 
 # 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
