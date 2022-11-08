@@ -8,7 +8,9 @@
 	I am happy when I can improve myself just 1% everyday
 <!--END_SECTION:activity-->
 </details>
+
 	💪 It should be one of our mission to improve everyday for the better
+
 ###  🔎 Learning How to learn
 <details>
   <summary> 🔑 Learning to learn</summary>
