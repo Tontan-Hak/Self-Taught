@@ -1,5 +1,5 @@
 #  🚀 Introduction 
-![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 <details>
   <summary>⏳ My mission</summary>
   <br/>
@@ -61,5 +61,20 @@
 # 🚩 MIT Math Subjects Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 
-# 🧮 Path to a free self-taught education in Mathematics
+# 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
+- [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
+- [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
+
+## License   
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<a href="https://github.com/Tontan-Hak/Self-Taught/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Taught" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Self-Taught" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Self-Taught" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Self-Taught" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Self-Taught?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Taught?color=2b9348" alt="License Badge"/></a>
+
+--- 
