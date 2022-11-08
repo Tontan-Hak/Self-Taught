@@ -13,7 +13,7 @@
 
 ##  🔎 Learning How to learn
 <details>
-  <summary> 🔑 Learning how to learn</summary>
+  <summary> 🔑 Learning to learn</summary>
   <br/>
 	
 <!--START_SECTION:activity-->
