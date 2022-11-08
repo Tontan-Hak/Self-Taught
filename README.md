@@ -12,6 +12,11 @@
 	💪 It should be one of our mission to improve everyday for the better
 
 ##  🔎 Learning How to learn
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+	
+<!--START_SECTION:activity-->
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
 - [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
@@ -36,7 +41,9 @@
 - [🎥 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
 - [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 - [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
-
+<!--END_SECTION:activity-->
+</details>
+	
 ## 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
