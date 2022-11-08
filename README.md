@@ -1,4 +1,4 @@
-#  🚀 Introduction to self-taught education
+#  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 <details>
   <summary>⏳ My mission</summary>
