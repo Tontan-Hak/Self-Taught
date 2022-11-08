@@ -77,7 +77,9 @@
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
-
+# Advice
+* [Paul Graham](http://paulgraham.com/)
+* [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 ## License   
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
