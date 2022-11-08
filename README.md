@@ -67,6 +67,8 @@
 
 # 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
+- [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
+- [Mathematics with Computer Science (Course 18-C)](http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/)
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
