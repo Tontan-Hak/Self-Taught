@@ -11,7 +11,7 @@
 
 	💪 It should be one of our mission to improve everyday for the better
 
-##  🔎 Learning How to learn
+###  🔎 Learning How to learn
 <details>
   <summary> 🔑 Learning to learn</summary>
   <br/>
@@ -44,17 +44,17 @@
 <!--END_SECTION:activity-->
 </details>
 	
-## 🚩 Recommended Course 
+### 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
 
-## 📑 Teaching and learning
+### 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
-##  🔍 Simulations and Open online source
+###  🔍 Simulations and Open online source
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
 - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
@@ -65,7 +65,7 @@
 - [🌐 Youcubed](https://www.youcubed.org/)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
 
-# 🚩 MIT Course Overvie
+### 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Mathematics with Computer Science (Course 18-C)](http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/)
@@ -73,11 +73,11 @@
 - [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
 
-# 🧮 Path to a free self-taught education
+### 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
-# 📑 Advice
+### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 ## License   
