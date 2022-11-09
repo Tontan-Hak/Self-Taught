@@ -77,6 +77,23 @@
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
+### [Dr. Chuck Online](https://online.dr-chuck.com/)
+1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+1. [Python For Everybody](https://www.py4e.com/lessons)
+1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
+
+### Computer Science
+1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
+1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+1. [INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 ### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
