@@ -1,16 +1,5 @@
 #  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
-<details>
-  <summary>⏳ My mission</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-	I am happy when I can improve myself just 1% everyday
-<!--END_SECTION:activity-->
-</details>
-
-	💪 It should be one of our mission to improve everyday for the better
-
 ###  🔎 Learning How to learn
 <details>
   <summary> 🔑 Learning to learn</summary>
@@ -125,8 +114,8 @@
 ### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
-## License   
 
+## License   
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <a href="https://github.com/Tontan-Hak/Self-Taught/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Taught" alt="Stars Badge"/></a>
@@ -137,4 +126,13 @@
 <a href="https://github.com/Tontan-Hak/Self-Taught/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Taught?color=2b9348" alt="License Badge"/></a>
 
 --- 
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
 
+<!--START_SECTION:activity-->
+	I am happy when I can improve myself just 1% everyday
+<!--END_SECTION:activity-->
+</details>
+
+	💪 It should be one of our mission to improve everyday for the better
