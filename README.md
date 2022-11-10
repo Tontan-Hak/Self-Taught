@@ -95,8 +95,8 @@
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 # Watch more
-> [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
-> [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
+> * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
+> * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
 # Read More
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
