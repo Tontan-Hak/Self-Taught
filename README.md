@@ -44,6 +44,11 @@
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 ###  🔍 Simulations and Open online source
+<details>
+  <summary> 🔧 Website and tool</summary>
+  <br/>
+  
+  <!--START_SECTION:activity-->
 - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
 - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
@@ -53,7 +58,8 @@
 - [🌐 Better Explained](https://betterexplained.com/)
 - [🌐 Youcubed](https://www.youcubed.org/)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
-
+<!--END_SECTION:activity-->
+</details>
 ### 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
