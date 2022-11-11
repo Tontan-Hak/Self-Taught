@@ -97,7 +97,7 @@
 
 # Read More article
 <details>
-  <summary> 🔧 computer</summary>
+  <summary> 💻 computer</summary>
   <br/>
     
 <!--START_SECTION:activity-->
