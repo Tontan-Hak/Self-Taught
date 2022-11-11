@@ -92,7 +92,7 @@
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 # Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
->> * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
+> * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 > * [Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
 
 # Read More
