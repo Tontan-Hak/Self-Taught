@@ -95,7 +95,12 @@
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 > * [Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
 
-# Read More
+# Read More article
+<details>
+  <summary> 🔧 computer</summary>
+  <br/>
+    
+<!--START_SECTION:activity-->
 - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
 - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
@@ -112,6 +117,8 @@
 - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
 - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
+<!--END_SECTION:activity-->
+</details>
 
 # Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
