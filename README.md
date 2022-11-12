@@ -1,11 +1,6 @@
 #  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 ###  🔎 Learning How to learn
-<details>
-  <summary> 🔑 Learning to learn</summary>
-  <br/>
-	
-<!--START_SECTION:activity-->
 > 🎬 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 <details>
   <summary> 🔑 How to Get the Most Out of Studying</summary>
@@ -68,9 +63,6 @@
 - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
 <!--END_SECTION:activity-->
 </details>	
-
-<!--END_SECTION:activity-->
-</details>
 	
 ### 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
