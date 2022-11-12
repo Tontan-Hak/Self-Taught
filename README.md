@@ -1,6 +1,6 @@
 #  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
-### 🔎 Learning How to learn
+##Learning How to learn
 Quote
 >**“The first principle is that you must not fool yourself and you are the easiest person to fool.”**
 > ― Richard P. Feynman
