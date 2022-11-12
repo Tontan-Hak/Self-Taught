@@ -64,6 +64,9 @@ Quote
 >    * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
 >    * [📄 Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)	
 >  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+>  - [🎬 How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) 
+>  - [🎬 Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos)
+>  - [🎬 The Real Reason You Should Study Math](https://www.youtube.com/watch?v=NjYjT9j-y8M)
 >  <!--END_SECTION:activity-->
 >   </details>
 
