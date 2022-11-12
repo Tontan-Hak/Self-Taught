@@ -15,11 +15,11 @@
      * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
      * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()		
 <details>
-  <summary> 🔑 Learning to learn</summary>
+  <summary> 🔑 Learning how to learn for student</summary>
   <br/>
 	
 <!--START_SECTION:activity-->
-- Learning how to learn for student
+
    * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
    * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
    * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
