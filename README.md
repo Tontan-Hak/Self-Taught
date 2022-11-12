@@ -9,6 +9,11 @@
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
 - [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+<details>
+  <summary> 🔑 How to learn math</summary>
+  <br/>
+	
+<!--START_SECTION:activity-->
 - [📄 How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
      * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
      * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
@@ -19,6 +24,9 @@
      * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
      * 📄 [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [📄 Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+<!--END_SECTION:activity-->
+</details>
+	
 - [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
 - [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
 - [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
