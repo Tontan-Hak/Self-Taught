@@ -2,67 +2,67 @@
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 
 ### Learning How to learn 🔎
-  > <details>
-  >  <summary> How to Get the Most Out of Studying</summary>
-  >  <br/>
-  >	
-  > <!--START_SECTION:activity-->	
-  > - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
-  >    * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
-  >    * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
-  >    * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
-  >    * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
-  >    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()		
-  >  <!--END_SECTION:activity-->
-  >  </details>
-  >	
-  > <details>
-  > <summary> Learning how to learn for student</summary>
-  >  <br/>
-  >	
-  >  <!--START_SECTION:activity-->
-  >  - Learning how to learn for student
-  >     * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
-  >     * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
-  >     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
-  >     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
-  >     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
-  >  <!--END_SECTION:activity-->
-  >  </details>
-  >
-  >  <details>
-  >  <summary> Growth Mindset</summary>
-  >  <br/>
-  >	
-  >  <!--START_SECTION:activity-->
-  >  >Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
-  >    - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-  >    - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-  >    - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-  >    - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-  >    - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
-  >    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
-  >    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
-  >  <!--END_SECTION:activity-->
-  >  </details>
-  >
-  >  <details>
-  >  <summary> How to learn math</summary>
-  >   <br/>
-  > 	
-  >  <!--START_SECTION:activity-->
-  >  - [📄 How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
-  >    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
-  >    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
-  >    * [📄 Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
-  >    * [📄 Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
-  >    * [📄 Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
-  >    * [📄 Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
-  >    * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
-  >    * [📄 Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)	
-  >  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
-  >  <!--END_SECTION:activity-->
-  >   </details>
+> <details>
+>  <summary> How to Get the Most Out of Studying</summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->	
+> - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
+>    * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
+>    * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
+>    * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
+>    * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
+>    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()		
+>  <!--END_SECTION:activity-->
+>  </details>
+>	
+> <details>
+> <summary> Learning how to learn for student</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>  - Learning how to learn for student
+>     * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+>     * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
+>     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
+>     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+>     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+>  <!--END_SECTION:activity-->
+>  </details>
+>
+>  <details>
+>  <summary> Growth Mindset</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>  >Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+>    - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+>    - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+>    - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+>    - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+>    - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+>    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+>    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+>  <!--END_SECTION:activity-->
+>  </details>
+>
+>  <details>
+>  <summary> How to learn math</summary>
+>   <br/>
+> 	
+>  <!--START_SECTION:activity-->
+>  - [📄 How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
+>    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
+>    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
+>    * [📄 Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
+>    * [📄 Homework](https://tutorial.math.lamar.edu/Extras/StudyMath/Homework.aspx)
+>    * [📄 Problem Solving](https://tutorial.math.lamar.edu/Extras/StudyMath/ProblemSolving.aspx)
+>    * [📄 Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
+>    * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
+>    * [📄 Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)	
+>  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+>  <!--END_SECTION:activity-->
+>   </details>
 
 ### Quote
 	“The first principle is that you must not fool yourself and you are the easiest person to fool.” 
