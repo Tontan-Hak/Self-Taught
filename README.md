@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 
 ### Learning How to learn 🔎
+~~~
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -63,7 +64,7 @@
 >  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
 >  <!--END_SECTION:activity-->
 >   </details>
-
+~~~
 ### Quote
 	“The first principle is that you must not fool yourself and you are the easiest person to fool.” 
 	 ― Richard P. Feynman	
