@@ -95,13 +95,11 @@ Quote
 - [🌐 Better Explained](https://betterexplained.com/)
 - [🌐 Youcubed](https://www.youcubed.org/)
 - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
-  - [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
-  - [W3school](https://www.w3schools.com/)
-  - [Codecademy](https://www.codecademy.com/catalog)
-  - [Coursera](https://www.coursera.org/)
-  - [edx](https://www.edx.org/)
-  - [Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
-  - [MIT OpenCourseWare](https://ocw.mit.edu/)
+- [🌐 FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+- [🌐 W3school](https://www.w3schools.com/)
+- [🌐 Codecademy](https://www.codecademy.com/catalog)
+- [🌐 edx](https://www.edx.org/)
+- [🌐 Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
 <!--END_SECTION:activity-->
 </details>
 
