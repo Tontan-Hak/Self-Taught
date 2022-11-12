@@ -16,35 +16,35 @@
 >  <!--END_SECTION:activity-->
 >  </details>
 	
- <details>
- <summary> Learning how to learn for student</summary>
- <br/>
+> <details>
+> <summary> Learning how to learn for student</summary>
+>  <br/>
 	
- <!--START_SECTION:activity-->
-  - Learning how to learn for student
-     * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
-     * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
-     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
-     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
-     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-<summary> Growth Mindset</summary>
-<br/>
-	
-<!--START_SECTION:activity-->
-> Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
-   - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-   - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-   - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-   - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-   - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
-   - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
-   - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
- <!--END_SECTION:activity-->
- </details>
+>  <!--START_SECTION:activity-->
+>  - Learning how to learn for student
+>     * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+>     * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
+>     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
+>     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+>     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+>  <!--END_SECTION:activity-->
+>  </details>
+>
+>  <details>
+>  <summary> Growth Mindset</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>  >Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+>   - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+>   - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+>   - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+>   - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+>   - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+>   - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+>   - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+>  <!--END_SECTION:activity-->
+>  </details>
 
  <details>
  <summary> How to learn math</summary>
