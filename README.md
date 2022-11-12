@@ -1,9 +1,9 @@
 #  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 ###  🔎 Learning How to learn
-> 🎬 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+> Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 <details>
-  <summary> 🔑 How to Get the Most Out of Studying</summary>
+  <summary> How to Get the Most Out of Studying</summary>
   <br/>
 	
 <!--START_SECTION:activity-->	
