@@ -6,20 +6,20 @@
   <br/>
 	
 <!--START_SECTION:activity-->
-🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
-- [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
-- [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)	
-- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
-- [🎥 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
-- [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
-- [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
-- [🎥 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
-- [🎥 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
-- [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+🎬 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+- [🎬 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
+- [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)	
+- [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+- [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+- [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+- [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+- [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+- [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+- [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
+- [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
+- [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+- [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 <details>
   <summary> 🔑 How to learn math</summary>
   <br/>
@@ -38,7 +38,7 @@
 <!--END_SECTION:activity-->
 </details>
 	
-- [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+- [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
 <!--END_SECTION:activity-->
 </details>
 	
@@ -99,7 +99,7 @@
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 1. [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 1. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
-# 🎥 Watch more
+# 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 > * [Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
