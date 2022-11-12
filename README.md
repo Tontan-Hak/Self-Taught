@@ -24,7 +24,7 @@ Quote
 >  <br/>
 >	
 >  <!--START_SECTION:activity-->
->  Learning how to learn
+>  - Learning how to learn
 >	
 >    * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
 >    * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
