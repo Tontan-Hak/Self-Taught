@@ -78,7 +78,7 @@ Quote
 ### 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
-### 🔍 Simulations and Open online source
+## Simulations and Open online source 🔍 
 <details>
   <summary> 🔧 Website and tool</summary>
   <br/>
