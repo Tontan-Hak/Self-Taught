@@ -1,9 +1,9 @@
 #  🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 ###  🔎 Learning How to learn
-> Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+
 <details>
-  <summary> How to Get the Most Out of Studying</summary>
+  <summary>How to Get the Most Out of Studying</summary>
   <br/>
 	
 <!--START_SECTION:activity-->	
@@ -17,7 +17,7 @@
 </details>
 	
 <details>
-  <summary> 🔑 Learning how to learn for student</summary>
+  <summary>Learning how to learn for student</summary>
   <br/>
 	
 <!--START_SECTION:activity-->
@@ -31,22 +31,23 @@
 </details>
 
 <details>
-  <summary> 🔑 Growth Mindset</summary>
+  <summary>Growth Mindset</summary>
   <br/>
 	
 <!--START_SECTION:activity-->
-- [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-- [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-- [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-- [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
-- [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
-- [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+> Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+  - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+  - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+  - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+  - [🎬 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+  - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+  - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+  - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 <!--END_SECTION:activity-->
 </details>
 	
 <details>
-  <summary> 🔑 How to learn math</summary>
+  <summary>How to learn math</summary>
   <br/>
 	
 <!--START_SECTION:activity-->
