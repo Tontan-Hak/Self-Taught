@@ -1,6 +1,9 @@
 # Self-taught education 🚀 
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
+### Quote
 
+| **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
+|:-------------:|
 ### Learning How to learn 🔎
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
@@ -63,11 +66,6 @@
 >  - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
 >  <!--END_SECTION:activity-->
 >   </details>
-
-### Quote
-
-| **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
-|:-------------:|
 
 ### 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
