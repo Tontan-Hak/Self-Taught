@@ -7,13 +7,20 @@
 	
 <!--START_SECTION:activity-->
 > 🎬 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+<details>
+  <summary> 🔑 How to Get the Most Out of Studying</summary>
+  <br/>
 	
+<!--START_SECTION:activity-->	
 - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
      * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
      * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
      * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
      * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
      * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()		
+<!--END_SECTION:activity-->
+</details>
+	
 <details>
   <summary> 🔑 Learning how to learn for student</summary>
   <br/>
@@ -57,11 +64,11 @@
      * [📄 Studying For Exams](https://tutorial.math.lamar.edu/Extras/StudyMath/StudyForExam.aspx)
      * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
      * 📄 [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
-- [📄 Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
-<!--END_SECTION:activity-->
-</details>
-	
+- [📄 Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 	
 - [🎬 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+<!--END_SECTION:activity-->
+</details>	
+
 <!--END_SECTION:activity-->
 </details>
 	
