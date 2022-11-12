@@ -13,8 +13,8 @@
      * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
      * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
      * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()		
- <!--END_SECTION:activity-->
- </details>
+  <!--END_SECTION:activity-->
+  </details>
 	
  <details>
  <summary> Learning how to learn for student</summary>
