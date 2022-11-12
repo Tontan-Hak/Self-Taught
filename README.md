@@ -81,10 +81,10 @@ Quote
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 ## Simulations and Open online source 🔍 
-<details>
-  <summary> 🔧 Website and tool</summary>
-  <br/>
-    
+> <details>
+>  <summary> 🔧 Website and tool</summary>
+>  <br/>
+>    
 > <!--START_SECTION:activity-->
 > - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 > - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
