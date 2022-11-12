@@ -7,7 +7,14 @@
 	
 <!--START_SECTION:activity-->
 > 🎬 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
+	
 - [🎬 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
+- [🎬 How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
+     * [Part 1 of 5, "Beliefs That Make You Fail... Or Succeed"](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
+     * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
+     * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
+     * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
+     * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()	
 - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)	
 - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
 - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
