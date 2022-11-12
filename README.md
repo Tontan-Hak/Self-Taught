@@ -8,7 +8,21 @@
 <!--START_SECTION:activity-->
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
-- [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+- [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)	
+- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
+- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
+- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
+- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
+- [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
+- [🎥 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
+- [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+- [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
+- [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
+- [🎥 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
+- [🎥 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
+- [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
+<!--END_SECTION:activity-->
+</details>
 <details>
   <summary> 🔑 How to learn math</summary>
   <br/>
@@ -24,21 +38,6 @@
      * [📄 Taking An Exam](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingExam.aspx)
      * 📄 [Learn From Your Errors](https://tutorial.math.lamar.edu/Extras/StudyMath/Errors.aspx)
 - [📄 Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
-<!--END_SECTION:activity-->
-</details>
-	
-- [🎥 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
-- [🎥 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
-- [🎥 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
-- [🎥 Developing Growth Mindset with Carol Dweck](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-- [🎥 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
-- [🎥 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
-- [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
-- [🎥 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PL-9r0qXR0Kq1TA2W6SpKLYZTP-_xfbebw)
-- [🎥 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
-- [🎥 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]()
-- [🎥 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
-- [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 <!--END_SECTION:activity-->
 </details>
 	
