@@ -1,6 +1,6 @@
 # Self-taught education 🚀 
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
-
+------
 Quote
 | **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
 |:-------------:|
@@ -167,7 +167,7 @@ Quote
 
 ## Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
-### 📑 Advice
+## 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 
