@@ -187,9 +187,10 @@ Quote
   <br/>
 
 <!--START_SECTION:activity-->
-	I am happy when I can improve myself just 1% everyday
+	To provide a Self-taught education 
 <!--END_SECTION:activity-->
 </details>
 
 	💪 It should be one of our mission to improve everyday for the better
+	I am happy when I can improve myself just 1% everyday
 
