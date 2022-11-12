@@ -193,4 +193,3 @@ Quote
 
 	💪 It should be one of our mission to improve everyday for the better
 	I am happy when I can improve myself just 1% everyday
-
