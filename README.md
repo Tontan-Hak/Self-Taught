@@ -1,7 +1,7 @@
-#  🚀 Self-taught education
+# Self-taught education 🚀 
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 
-### Learning How to learn
+### Learning How to learn 🔎
 <details>
   <summary> How to Get the Most Out of Studying</summary>
   <br/>
