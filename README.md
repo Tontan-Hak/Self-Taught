@@ -27,7 +27,12 @@
    * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 <!--END_SECTION:activity-->
 </details>
+
+<details>
+  <summary> 🔑 Growth Mindset</summary>
+  <br/>
 	
+<!--START_SECTION:activity-->
 - [🎬 You Can Learn Anything](https://www.youtube.com/watch?v=beSsSAUf-oc)
 - [🎬 How to grow your brain](https://www.youtube.com/watch?v=GWSZ1DKjNzY)
 - [🎬 The Growth Mindset](https://www.youtube.com/watch?v=wh0OS4MrN3E)
@@ -35,6 +40,9 @@
 - [🎬 Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://www.youtube.com/watch?v=O96fE1E-rf8)
 - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
 - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+<!--END_SECTION:activity-->
+</details>
+	
 <details>
   <summary> 🔑 How to learn math</summary>
   <br/>
