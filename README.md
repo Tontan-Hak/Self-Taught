@@ -65,8 +65,10 @@
 >   </details>
 
 ### Quote
-	“The first principle is that you must not fool yourself and you are the easiest person to fool.” 
-	 ― Richard P. Feynman	
+~~~
+**“The first principle is that you must not fool yourself and you are the easiest person to fool.”** 
+― Richard P. Feynman
+~~~
 ### 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
