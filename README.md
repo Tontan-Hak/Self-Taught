@@ -138,10 +138,10 @@ Quote
 > * [Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
 
 ## Read More article
-<details>
-  <summary> 💻 computer</summary>
-  <br/>
-    
+> <details>
+>  <summary> 💻 computer</summary>
+>  <br/>
+>    
 > <!--START_SECTION:activity-->
 > - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 > - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
