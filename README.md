@@ -38,7 +38,7 @@
 <!--END_SECTION:activity-->
 </details>
 	
-	- [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
+- [🎥 How to Learn Math: For student](https://www.youtube.com/playlist?list=PLWM_YBhktZmyfVJKXSKSVnHrFvMpv-JIU)
 <!--END_SECTION:activity-->
 </details>
 	
