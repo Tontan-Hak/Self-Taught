@@ -3,7 +3,7 @@
 ### 🔎 Learning How to learn
 You can learn anything
 <details>
-  <summary>How to Get the Most Out of Studying</summary>
+  <summary> How to Get the Most Out of Studying</summary>
   <br/>
 	
 <!--START_SECTION:activity-->	
@@ -17,7 +17,7 @@ You can learn anything
  </details>
 	
  <details>
- <summary>Learning how to learn for student</summary>
+ <summary> Learning how to learn for student</summary>
  <br/>
 	
  <!--START_SECTION:activity-->
@@ -31,7 +31,7 @@ You can learn anything
 </details>
 
 <details>
-<summary>Growth Mindset</summary>
+<summary> Growth Mindset</summary>
 <br/>
 	
 <!--START_SECTION:activity-->
@@ -47,7 +47,7 @@ You can learn anything
  </details>
 
  <details>
- <summary>How to learn math</summary>
+ <summary> How to learn math</summary>
  <br/>
 	
  <!--START_SECTION:activity-->
