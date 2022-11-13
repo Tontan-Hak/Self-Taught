@@ -40,7 +40,7 @@ Quote
 >	
 >  <!--START_SECTION:activity-->
 >   - Students responsibility on self learning [Part 1](https://www.youtube.com/watch?v=kgfFCnBdSas&t=1s) | [Part 2](https://www.youtube.com/watch?v=zDimJQQySzA)
->   - [រៀនពីរបៀបរៀន - Learning how to learn](https://www.youtube.com/watch?v=O96fE1E-rf8)
+>   - [រៀនពីរបៀបរៀន - Learning how to learn (Video)](https://www.youtube.com/watch?v=O96fE1E-rf8)
 >       * [ខួរក្បាលនិងការរៀន - Brain and learning (Slide)](https://docs.google.com/presentation/d/11yaoldSxqnvNcWR7w-xV9x30rG1qNg2d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=OL14SlNhSwk&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A)
 >       * [វិធីសាស្រ្តជំនះការពន្យារពេល(ខ្ជិល) - Beating procrastination and multi-tasking (Slide)](https://docs.google.com/presentation/d/19Ai37o6bfNN4w0PHVYJcGSAk1fVKS8Me/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wysP0TNz2To&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=7)
 >       * [សង្ខេបវិធីសាស្រ្តរៀនមានប្រសិទ្ធភាព - Summary slide (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p1)
@@ -50,12 +50,12 @@ Quote
 >          * [ការប្រៀបប្រដូច - Analogy (Slide)](https://docs.google.com/presentation/d/1mPpPYRG7wekVkRj5YdUQeydxoqGzr_6d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=RrZsNozml0I&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=4)
 >          * [ការបញ្ចូលទិន្នន័យដោយ២វិធី - Dual coding (Slide)](https://docs.google.com/presentation/d/1aw2hMgnezv3KAZIao4VM_6clSoSdEe4a/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=TbsCvRlJ0Ag&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=6)
 >          * [ការរំលឹកមេរៀនលោះថ្ងៃ-Distributed Practice (Slide)](https://docs.google.com/presentation/d/1JyLVaf6BlKQxxp0lZr5HlnhkQ8-y1NIb/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wSb5nK3--LE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=5)
->          * [ការប្រើប្រាស់ Flashcards ដើម្បីជំនួយដល់ការរៀនមានប្រសិទ្ធភាព - How to use flashcards](https://www.youtube.com/watch?v=mh5uIqCjFHg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=8)
->          * [វិធីសាស្រ្តរៀនជីវវិទ្យាអោយ និងចាំបានយូរ - How to be study biology effectively](https://www.youtube.com/watch?v=YGorf7blAHE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=10)
+>          * [ការប្រើប្រាស់ Flashcards ដើម្បីជំនួយដល់ការរៀនមានប្រសិទ្ធភាព - How to use flashcards (Video)](https://www.youtube.com/watch?v=mh5uIqCjFHg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=8)
+>          * [វិធីសាស្រ្តរៀនជីវវិទ្យាអោយ និងចាំបានយូរ - How to be study biology effectively (Video)](https://www.youtube.com/watch?v=YGorf7blAHE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=10)
 >    - បទពិសោធន៍នៃការរៀនអនឡាញ - Online learning experiences
->       * [ការរៀនអនឡាញ - Online learning](https://docs.google.com/presentation/d/1flEebmoLLzLMPMEvuAPprKuSNxJqAET1/edit#slide=id.p1)
->       * [ការរៀនProgramming អនឡាញដោយខ្លួនឯង (វីរៈរដ្ឋ) - Online programming learning experiences by Virakroth](https://docs.google.com/presentation/d/1_XoXjcOWPwKY4REbQt3CthYs0pGSVn6L/edit#slide=id.p1)
->       * [បទពិសោធន៍នៃការរៀនអនឡាញរបស់ សោភា - Online learning experiences by HO Chanponleusophea](https://docs.google.com/presentation/d/16-RbVnba-qx7gfe6Tlg6SKe1sS9WB50m/edit#slide=id.p1)
+>       * [ការរៀនអនឡាញ - Online learning (Slide)](https://docs.google.com/presentation/d/1flEebmoLLzLMPMEvuAPprKuSNxJqAET1/edit#slide=id.p1)
+>       * [ការរៀនProgramming អនឡាញដោយខ្លួនឯង (វីរៈរដ្ឋ) - Online programming learning experiences by Virakroth (slide)](https://docs.google.com/presentation/d/1_XoXjcOWPwKY4REbQt3CthYs0pGSVn6L/edit#slide=id.p1)
+>       * [បទពិសោធន៍នៃការរៀនអនឡាញរបស់ សោភា - Online learning experiences by HO Chanponleusophea (Slide)](https://docs.google.com/presentation/d/16-RbVnba-qx7gfe6Tlg6SKe1sS9WB50m/edit#slide=id.p1)
 >  <!--END_SECTION:activity-->
 >  </details> 
 >     
