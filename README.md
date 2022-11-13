@@ -40,9 +40,10 @@ Quote
 >	
 >  <!--START_SECTION:activity-->
 >   - Students responsibility on self learning [Part 1](https://www.youtube.com/watch?v=kgfFCnBdSas&t=1s) | [Part 2](https://www.youtube.com/watch?v=zDimJQQySzA)
->   - រៀនពីរបៀបរៀន - Learning how to learn
->	
->	 * [ខួរក្បាលនិងការរៀន (Slide)](https://docs.google.com/presentation/d/11yaoldSxqnvNcWR7w-xV9x30rG1qNg2d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=OL14SlNhSwk&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A)
+>   - [រៀនពីរបៀបរៀន - Learning how to learn]()
+>       * [ខួរក្បាលនិងការរៀន (Slide)](https://docs.google.com/presentation/d/11yaoldSxqnvNcWR7w-xV9x30rG1qNg2d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=OL14SlNhSwk&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A)
+	* [វិធីសាស្រ្តជំនះការពន្យារពេល(ខ្ជិល) (Slide)](https://docs.google.com/presentation/d/19Ai37o6bfNN4w0PHVYJcGSAk1fVKS8Me/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wysP0TNz2To&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=7)
+	* 
 >  <!--END_SECTION:activity-->
 >  </details> 
 >     
