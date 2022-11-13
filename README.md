@@ -43,13 +43,19 @@ Quote
 >   - [រៀនពីរបៀបរៀន - Learning how to learn]()
 >       * [ខួរក្បាលនិងការរៀន (Slide)](https://docs.google.com/presentation/d/11yaoldSxqnvNcWR7w-xV9x30rG1qNg2d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=OL14SlNhSwk&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A)
 >       * [វិធីសាស្រ្តជំនះការពន្យារពេល(ខ្ជិល) (Slide)](https://docs.google.com/presentation/d/19Ai37o6bfNN4w0PHVYJcGSAk1fVKS8Me/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wysP0TNz2To&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=7)
->       * [សង្ខេបវិធីសាស្រ្តរៀនមានប្រសិទ្ធភាព (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p1) | [Viedo]()
+>       * [សង្ខេបវិធីសាស្រ្តរៀនមានប្រសិទ្ធភាព (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p1)
 >          * [របៀបកត់ត្រា - Note taking (Slide)](https://docs.google.com/presentation/d/1ybertTLzlpn58Pz-2paWZel1ED6krvLb/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=_Ez1D9V2_1U&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=9)
 >          * [រំលឹកសកម្ម (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p3) | [Video](https://www.youtube.com/watch?v=-W4MuiCmQak&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=2)
 >          * [ការជជីកសួរ (Slide)](https://docs.google.com/presentation/d/1EhJWyD1Fu_LiA3-ruV9W0CF_HL3zI-10/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=cfwfGdvw_cg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=3)
 >          * [ការប្រៀបប្រដូច - បង្កើត analogy (Slide)](https://docs.google.com/presentation/d/1mPpPYRG7wekVkRj5YdUQeydxoqGzr_6d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=RrZsNozml0I&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=4)
 >          * [ការបញ្ចូលទិន្នន័យតាម២របៀប (Slide)](https://docs.google.com/presentation/d/1aw2hMgnezv3KAZIao4VM_6clSoSdEe4a/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=TbsCvRlJ0Ag&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=6)
 >          * [ការរំលឹកមេរៀនរំលងថ្ងៃ (Slide)](https://docs.google.com/presentation/d/1JyLVaf6BlKQxxp0lZr5HlnhkQ8-y1NIb/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=wSb5nK3--LE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=5)
+>          * [ការប្រើប្រាស់ Flashcards ដើម្បីជំនួយដល់ការរៀនមានប្រសិទ្ធភាព](https://www.youtube.com/watch?v=mh5uIqCjFHg&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=8)
+>          * [វិធីសាស្រ្តរៀនជីវវិទ្យាអោយ និងចាំបានយូរ](https://www.youtube.com/watch?v=YGorf7blAHE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=10)
+>    - បទពិសោធន៍នៃការរៀនអនឡាញ
+>       * [ការរៀនអនឡាញ](https://docs.google.com/presentation/d/1flEebmoLLzLMPMEvuAPprKuSNxJqAET1/edit#slide=id.p1)
+>       * [ការរៀនProgramming អនឡាញដោយខ្លួនឯង (វីរៈរដ្ឋ)](https://docs.google.com/presentation/d/1_XoXjcOWPwKY4REbQt3CthYs0pGSVn6L/edit#slide=id.p1)
+>       * [បទពិសោធន៍នៃការរៀនអនឡាញរបស់ សោភា](https://docs.google.com/presentation/d/16-RbVnba-qx7gfe6Tlg6SKe1sS9WB50m/edit#slide=id.p1)
 >  <!--END_SECTION:activity-->
 >  </details> 
 >     
