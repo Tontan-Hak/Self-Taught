@@ -35,6 +35,17 @@ Quote
 >  </details>
 >
 >  <details>
+>  <summary> Self directed learning</summary>
+>  <br/>
+>	
+>  <!--START_SECTION:activity-->
+>   - Students responsibility on self learning [Part 1](https://www.youtube.com/watch?v=kgfFCnBdSas&t=1s) | [Part 2](https://www.youtube.com/watch?v=zDimJQQySzA)
+>   - រៀនពីរបៀបរៀន - Learning how to learn
+>	* 
+>  <!--END_SECTION:activity-->
+>  </details> 
+>     
+>  <details>
 >  <summary> Growth Mindset</summary>
 >  <br/>
 >	
