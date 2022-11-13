@@ -50,7 +50,6 @@ Quote
 >       * [ការប្រៀបប្រដូច - បង្កើត analogy (Slide)](https://docs.google.com/presentation/d/1mPpPYRG7wekVkRj5YdUQeydxoqGzr_6d/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=RrZsNozml0I&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=4)
 >       * [ការបញ្ចូលទិន្នន័យតាម២របៀប (Slide)](https://docs.google.com/presentation/d/1aw2hMgnezv3KAZIao4VM_6clSoSdEe4a/edit#slide=id.p1) | [Video](https://www.youtube.com/watch?v=TbsCvRlJ0Ag&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=6)
 >       * [ការរំលឹកមេរៀនរំលងថ្ងៃ (Slide)](https://docs.google.com/presentation/d/1bYt0uDe3SxPzuAxaLmwUQS7GIbdgyBuO/edit#slide=id.p20) | [Video](https://www.youtube.com/watch?v=wSb5nK3--LE&list=PL8jtI17e8d6h90z5_0HKATJl_hLnq4F6A&index=5)
-
 >  <!--END_SECTION:activity-->
 >  </details> 
 >     
