@@ -112,7 +112,7 @@ Quote
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 
 ---
-## Simulations and Open online source 🔍 
+# Simulations and Open online source 🔍 
 > <details>
 >  <summary> 🔧 Website and tool</summary>
 >  <br/>
@@ -161,6 +161,7 @@ Quote
 1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 2. [Complete education in computer science degree](https://github.com/ossu/computer-science)
 3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
+---
 ## 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
