@@ -162,11 +162,11 @@ Quote
 2. [Complete education in computer science degree](https://github.com/ossu/computer-science)
 3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 ---
-## 🎬 Watch more
+### 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
-## Read More article
+### Read More article
 > <details>
 >  <summary> 💻 computer</summary>
 >  <br/>
@@ -194,9 +194,9 @@ Quote
 ### Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-## Find the best courses, wherever they exist
+### Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
-## 📑 Advice
+### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 
