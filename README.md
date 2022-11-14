@@ -27,7 +27,7 @@ Quote
 >  - Learning how to learn
 >	
 >    * [🎬 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.youtube.com/playlist?list=PLWM_YBhktZmxUhsC_FVsVXNVNZ3q3Lr4s)
->    * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PL9naDPbckPtDjtdJR3fA8K9OR_Dx14kMY)
+>    * [🎬 Learning how to learn for youth](https://www.youtube.com/playlist?list=PLWM_YBhktZmwtIz2NP39-GIYuQcEvU6xu)
 >    * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.youtube.com/playlist?list=PLWM_YBhktZmw3EDBWap0kpZiZwR6YtjsA)
 >    * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
 >    * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
