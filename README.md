@@ -73,6 +73,7 @@ Quote
 >    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
 >    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 >    - [🎬 Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
+>    - []()
 >  <!--END_SECTION:activity-->
 >  </details>
 >
@@ -95,6 +96,7 @@ Quote
 >  - [🎬 Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos)
 >  - [🎬 The Real Reason You Should Study Math](https://www.youtube.com/watch?v=NjYjT9j-y8M)
 >  - [📄 The Feynman lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
+>  - [📄 The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/feynman-technique/)
 >  <!--END_SECTION:activity-->
 >   </details>
 
