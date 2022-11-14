@@ -94,6 +94,7 @@ Quote
 >  - [🎬 How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) 
 >  - [🎬 Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos)
 >  - [🎬 The Real Reason You Should Study Math](https://www.youtube.com/watch?v=NjYjT9j-y8M)
+>  - [📄 The Feynman lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
 >  <!--END_SECTION:activity-->
 >   </details>
 
