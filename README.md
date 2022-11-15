@@ -222,4 +222,4 @@
 
 	💪 It should be one of our mission to improve everyday for the better
 	I am happy when I can improve myself just 1% everyday
-
+| **There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `– Richard Feynman` |
