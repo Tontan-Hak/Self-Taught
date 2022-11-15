@@ -73,7 +73,7 @@
 >    - [🎬 The Power of Asking How | Olav Schewe | TEDxWCMephamHigh](https://www.youtube.com/watch?v=dpsr0SJ7jQI)
 >    - [🎬 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 >    - [🎬 Best Way to Learn Anything](https://www.youtube.com/watch?v=J2JGiJNUsD4)
->    - []()
+>    - [📄 How to Learn Anything with the Feynman Technique](https://blog.doist.com/feynman-technique/)
 >  <!--END_SECTION:activity-->
 >  </details>
 >
@@ -82,7 +82,7 @@
 >   <br/>
 > 	
 >  <!--START_SECTION:activity-->
->  - [📄 How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
+>  - [ How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
 >    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
 >    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
 >    * [📄 Getting Help](https://tutorial.math.lamar.edu/Extras/StudyMath/GettingHelp.aspx)
