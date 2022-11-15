@@ -2,9 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 
 **Quote**
-
 | **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
-| **There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `– Richard Feynman` |
 |:--------------:| 
 ### Learning How to learn 🔎
 > <details>
