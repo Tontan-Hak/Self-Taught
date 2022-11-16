@@ -188,6 +188,7 @@
 > - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
 > - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 > - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
+> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 > <!--END_SECTION:activity-->
 > </details>
 
