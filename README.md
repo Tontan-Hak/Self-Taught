@@ -82,6 +82,7 @@
 >   <br/>
 > 	
 >  <!--START_SECTION:activity-->
+>  - [Understanding Mathematics](https://github.com/nbro/understanding-math)
 >  - [ How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
 >    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
 >    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
@@ -192,7 +193,6 @@
 > <!--END_SECTION:activity-->
 > </details>
 
-## Miscellaneous
 ### Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
@@ -201,6 +201,11 @@
 ### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above
+
+- [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
