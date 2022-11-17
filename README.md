@@ -192,6 +192,7 @@
 > <!--END_SECTION:activity-->
 > </details>
 
+## Miscellaneous
 ### Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
