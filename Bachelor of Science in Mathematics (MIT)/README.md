@@ -3,6 +3,7 @@
 |:------------:|
 -----
 # 🎓Bachelor of Science in Mathematics
+- [Department of Mathematics](http://catalog.mit.edu/schools/science/mathematics/#text)
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Mathematics (Course 18)](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Math Major](https://math.mit.edu/academics/undergrad/major/)
