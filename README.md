@@ -204,9 +204,9 @@
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
+- [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
 - [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
-- [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
 
