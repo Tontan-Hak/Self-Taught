@@ -209,6 +209,7 @@ Just a few sites that don't fit into any of the other areas above
 - [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
+- [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
