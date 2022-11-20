@@ -214,6 +214,7 @@ Just a few sites that don't fit into any of the other areas above
 - [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
 - [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
 - [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
