@@ -112,7 +112,7 @@
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/uncommon-sense-teaching)
-- [🚩 ]()
+- [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
 
 ---
 # Simulations and Open online source 🔍 
