@@ -238,6 +238,20 @@ You are expected to write about 70 words of your own. The marking scheme is desc
 <!--END_SECTION:activity-->
 </details>
 
+<details>
+  <summary>Marking scheme</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+Many years ago, I did not know a lot about theories of learning. I thought learning takes place after I understand the new knowledge that my teacher imparts to me and I score well in the examination and the assessment tasks. "Constructivism" leads me to have a new understanding of what learning involves, which include:
+* learning is not completely about receiving and understanding the knowledge that my teacher gives me;
+* it is more about what I do with the new knowledge, for examples, how I interpret and understand them, which is very much influenced by my past experiences, background, knowledge in that subject area
+* learning is more about what I do rather than what my teacher does as I have to construct the meaning of the new knowledge myself, ask question, investigate into any thing which I do not understand, explore how it is related to my present and past knowledge.
+
+In conclusion, constructivism is a better way of learning as in the past, I more or less forgot nearly everything which my teacher has taught me after the examination. The knowledge I construct myself correctly with the help of my teacher will stay with me for years,
+<!--END_SECTION:activity-->
+</details>
+
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
