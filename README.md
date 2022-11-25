@@ -228,7 +228,7 @@ A scaffold for this process is the 4 Rs. The steps below are based on Bain (2002
   <br/>
 
 <!--START_SECTION:activity-->
-The marking scheme is described below.
+You are expected to write about 70 words of your own. The marking scheme is described below.
 - 5 marks: a demonstration of own effort (eg using one's own words and effort) and the answer being in the right direction (pls note that the answer needs not be perfect but it definitely answers what has been asked)
 - 4 marks.  Falling short of the criteria for 5 marks by a fair bit;
 - 3 marks.  Falling short of the criteria for 5 marks by a distance;
