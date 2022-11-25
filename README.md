@@ -204,6 +204,20 @@
 ### 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+## The process of reflection
+Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
+
+A scaffold for this process is the 4 Rs. The steps below are based on Bain (2002). This 4Rs process is based on the Reflection-On-action described earlier by Dewey, Schon and Van Manen. The process is designed to encourage you to address your ongoing learning from a number of standpoints (practical, cognitive, emotional, your values, your beliefs, your ethics and the political imperatives placed upon you).
+
+<details>
+  <summary> **Report** </summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
+<!--END_SECTION:activity-->
+</details>
+
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
