@@ -263,7 +263,10 @@ At this stage you describe, report or re-tell the key elements of what you have 
 The marking scheme is described below.
 - 5 marks: a demonstration of own effort (eg using one's own words and effort) and the answer being in the right direction (pls note that the answer needs not be perfect but it definitely answers what has been asked)
 - 4 marks.  Falling short of the criteria for 5 marks by a fair bit;
-- 
+- 3 marks.  Falling short of the criteria for 5 marks by a distance;
+- 2 marks.  Falling short of the criteria for 5 by a big distance (eg not answering the question to the  point)
+- 1 mark.  Lack of effort or answer completely in the wrong direction or an evidence of copying from the Internet or other source
+- 0 mark: Strong evidence of copying from the Internet or other sources or from each other.
 <!--END_SECTION:activity-->
 </details>
 
