@@ -210,47 +210,15 @@ Reflection is not only a description of 'what you've seen' or 'what you've done'
 A scaffold for this process is the 4 Rs. The steps below are based on Bain (2002). This 4Rs process is based on the Reflection-On-action described earlier by Dewey, Schon and Van Manen. The process is designed to encourage you to address your ongoing learning from a number of standpoints (practical, cognitive, emotional, your values, your beliefs, your ethics and the political imperatives placed upon you).
 
 <details>
-  <summary> Report </summary>
+  <summary> 4 Rs </summary>
   <br/>
 
 <!--START_SECTION:activity-->
-At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>Relate</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-You should draw a relationship between your current personal or theoretical understandings and identify aspects of the observation which have personal meaning or connect with your experience. Relate or make a connection between the incident or issue and your own skills, professional experience, or discipline knowledge. Have I seen this before? Were the conditions the same or different? Do I have the skills and knowledge to deal with this?
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>Reason </summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-You should explore the relationship between theory and practice and seek a deep understanding of why something has happened. You can explore or analyse a concept, event or experience by asking questions and looking for answers, reviewing the literature, considering alternatives and multiple perspectives. Highlight in detail significant factors underlying the incident or issue. How would a knowledgeable and/or experienced person perceive/handle this? What are the ethics involved? 
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>Reconstruct</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
- Discuss improvements which could be made or identify something you need or plan to do or change.  You should be able to generalize and/or apply your learning to other contexts and future professional practice. This may involve developing general principles, formulating personal theories of teaching or taking a stand or position on an issue. How would I deal with this next time? What might work and why? Are there different options? What might happen if ....? Can I make changes which will benefit others?
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>Report</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
+* **Report** - At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
+* 
+* 
+* 
+* 
 <!--END_SECTION:activity-->
 </details>
 
