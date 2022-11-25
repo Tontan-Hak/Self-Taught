@@ -251,7 +251,8 @@ Many years ago, I did not know a lot about theories of learning. I thought learn
 In conclusion, constructivism is a better way of learning as in the past, I more or less forgot nearly everything which my teacher has taught me after the examination. The knowledge I construct myself correctly with the help of my teacher will stay with me for years,
 <!--END_SECTION:activity-->
 </details>
-
+### Time management
+* [Managing Time and Space](https://docs.google.com/document/d/1oua_LuQI24fcisLjJQUHdBQq6CuSAiE6/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
