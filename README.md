@@ -107,7 +107,7 @@ Okay, so without further ado, let's get to work!
 	
 </div>
 
-## Learning How to learn 🔎
+# Learning How to learn 🔎
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -217,6 +217,14 @@ Okay, so without further ado, let's get to work!
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
 
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
 ---
 # Simulations and Open online source 🔍 
 > <details>
@@ -268,6 +276,15 @@ Okay, so without further ado, let's get to work!
 2. [Complete education in computer science degree](https://github.com/ossu/computer-science)
 3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 4. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
 ---
 ## 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
@@ -357,6 +374,16 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 
 ### Time management
 * [Managing Time and Space](https://docs.google.com/document/d/1oua_LuQI24fcisLjJQUHdBQq6CuSAiE6/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
