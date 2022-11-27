@@ -6,7 +6,7 @@
 |:--------------:| 
 ---
 
-## Contents
+# Contents
 
 - [About](#About)
 - [Learning Goals](#Learning-Goals)
