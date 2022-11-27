@@ -6,7 +6,7 @@
 |:--------------:| 
 ---
 
-## Content summary.
+## Contents
 
 - [About]()
 - [Learning Goals]()
@@ -26,8 +26,23 @@
 - [References]()
 
 ---
+## About.
 
-### Learning How to learn 🔎
+This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
+
+To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
+
+In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
+
+##
+
+<div align="right">
+	
+[Go to the top]()
+	
+</div>
+
+## Learning How to learn 🔎
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -124,14 +139,14 @@
 >  <!--END_SECTION:activity-->
 >   </details>
 
-### 🚩 Recommended Course 
+## 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 
-### 📑 Teaching and learning
+## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
 - [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
@@ -161,7 +176,7 @@
 > <!--END_SECTION:activity-->
 > </details>
 
-### 🚩 MIT Course Overvie
+## 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Mathematics with Computer Science (Course 18-C)](http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/)
@@ -169,11 +184,11 @@
 - [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
 
-### 🧮 Path to a free self-taught education
+## 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
-### [Dr. Chuck Online](https://online.dr-chuck.com/)
+## [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
 1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
@@ -181,7 +196,7 @@
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
-### Computer Science 💻
+## Computer Science 💻
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
 1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -189,11 +204,11 @@
 3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
 4. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 ---
-### 🎬 Watch more
+## 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
-### Read More article
+## Read More article
 > <details>
 >  <summary> 💻 computer</summary>
 >  <br/>
@@ -219,12 +234,12 @@
 > <!--END_SECTION:activity-->
 > </details>
 
-### Road Map
+## Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-### Find the best courses, wherever they exist
+## Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
-### 📑 Advice
+## 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 ## The process of reflection
