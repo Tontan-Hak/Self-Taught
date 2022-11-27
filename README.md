@@ -38,7 +38,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 <div align="right">
 	
-[Go to the top]()
+[Go to the top](Contents)
 	
 </div>
 
