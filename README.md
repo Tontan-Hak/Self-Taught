@@ -227,7 +227,7 @@ Okay, so without further ado, let's get to work!
 </div>
 
 ---
-# Simulations and Open online source 🔍 
+# Simulations and Open online source
 > <details>
 >  <summary> 🔧 Website and tool</summary>
 >  <br/>
