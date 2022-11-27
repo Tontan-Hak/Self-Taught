@@ -38,7 +38,28 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 <div align="right">
 	
-[Go to the top](Contents)
+[Go to the top](#Contents)
+	
+</div>
+
+## Learning Goals.
+
+My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
+
+But here is an overview list of concepts and skills I want to learn by the end of this "degree":
+
+- Programming (Python, R and Java);
+- Databases, Business Intelligence and Data warehousing;
+- Data Visualization and Presentation Skills;
+- Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
+
+This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
