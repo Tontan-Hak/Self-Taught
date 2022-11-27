@@ -8,10 +8,11 @@
 
 ## Contents
 
-- [About]()
-- [Learning Goals]()
-- [How this Repository is Structured]()
-- [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
+- [About](#About.)
+- [Learning Goals](#Learning-Goals.)
+- [How this Repository is Structured](#How-this-Repository-is-Structured.)
+- [Learning How to Learn](#Learning-How-to-Learn)
+- [Main Curriculum](#Main-Curriculum.)
 	- [Section 01 - Fundamentals of Data Science]()
 	- [Section 02 - Mathematics and Statistics for Data Science]()
 	- [Section 03 - Computing and Programming]()
