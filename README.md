@@ -324,6 +324,16 @@ Okay, so without further ado, let's get to work!
 ## 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 ## The process of reflection
 Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
 
