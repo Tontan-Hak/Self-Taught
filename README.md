@@ -59,7 +59,51 @@ This is just an overview, if you want more details I recommend reading the main 
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+[Go to the top](#Contents)
+	
+</div>
+
+---
+
+## How this Repository is Structured.
+
+This repository is divided into five main sections, which contain the courses divided by themes, each section starts with an introduction, describing what my objectives are with those courses and my learning goals.
+
+After that, we have a table with the courses, which are structured in an order of difficulty or themes, but the sections are not sequential, with the exception of the first, which is an introduction, and the last, which requires a deeper knowledge of statistics.
+
+Regarding the courses table, it has the following structure:
+
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
+:-- | :-- | :-- | :-- | :--
+The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | A link to the course certificate, because yes.
+
+After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+
+## Main Curriculum.
+
+The main curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
+
+Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+
+After the main curriculum, I've added a section with books and other relevant bibliographies, and a section focused on soft skills and specific skills in some domains that I'm interested in.
+
+Okay, so without further ado, let's get to work!
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
 	
 </div>
 
