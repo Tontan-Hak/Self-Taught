@@ -4,6 +4,29 @@
 **Quote**
 | **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
 |:--------------:| 
+---
+
+## Content summary.
+
+- [About]()
+- [Learning Goals]()
+- [How this Repository is Structured]()
+- [Main Curriculum](https://github.com/marcoshsq/DataScienceCurriculum#main-curriculum)
+	- [Section 01 - Fundamentals of Data Science]()
+	- [Section 02 - Mathematics and Statistics for Data Science]()
+	- [Section 03 - Computing and Programming]()
+	- [Section 04 - Databases and Big Data]()
+	- [Section 05 - Artificial Intelligence]()
+- [Complementary courses]()
+	- [Soft Skills/Domain Knowledge]()
+- [Extra Bibliography]()
+	- [Mathematics Books]()
+	- [Books, articles and related documentation]()
+- [Important Notes]()
+- [References]()
+
+---
+
 ### Learning How to learn 🔎
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
