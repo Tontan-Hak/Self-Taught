@@ -108,7 +108,7 @@ Okay, so without further ado, let's get to work!
 	
 </div>
 
-# Learning How to learn 🔎
+# Learning How to learn
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
