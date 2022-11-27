@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [About](#About.)
+- [About](#About)
 - [Learning Goals](#Learning-Goals.)
 - [How this Repository is Structured](#How-this-Repository-is-Structured.)
 - [Learning How to Learn](#Learning-How-to-Learn)
