@@ -396,7 +396,6 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 </div>
 
 ---
-
 ## Miscellaneous
 Just a few sites that don't fit into any of the other areas above
 
