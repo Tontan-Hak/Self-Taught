@@ -4,7 +4,113 @@
 **Quote**
 | **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
 |:--------------:| 
-### Learning How to learn 🔎
+---
+The open-source curriculum for learning Mathematics. Inspired by The [
+Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
+# Contents
+
+- [About](#About)
+- [Learning Goals](#Learning-Goals)
+- [How this Repository is Structured](#How-this-Repository-is-Structured)
+- [Learning How to Learn](#Learning-How-to-Learn)
+- [Main Curriculum](#Main-Curriculum)
+	- [Section 01 - ]()
+	- [Section 02 - ]()
+	- [Section 03 - ]()
+	- [Section 04 - ]()
+	- [Section 05 - ]()
+- [Complementary courses]()
+	- [Soft Skills/Domain Knowledge]()
+- [Extra Bibliography]()
+	- [Mathematics Books]()
+	- [Books, articles and related documentation]()
+- [Important Notes]()
+- [References]()
+- [Miscellaneous]()
+
+---
+## About.
+
+This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
+
+To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
+
+In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+## Learning Goals.
+
+My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
+
+But here is an overview list of concepts and skills I want to learn by the end of this "degree":
+
+- Programming (Python, R and Java);
+- Databases, Business Intelligence and Data warehousing;
+- Data Visualization and Presentation Skills;
+- Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
+
+This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+
+## How this Repository is Structured.
+
+This repository is divided into five main sections, which contain the courses divided by themes, each section starts with an introduction, describing what my objectives are with those courses and my learning goals.
+
+After that, we have a table with the courses, which are structured in an order of difficulty or themes, but the sections are not sequential, with the exception of the first, which is an introduction, and the last, which requires a deeper knowledge of statistics.
+
+Regarding the courses table, it has the following structure:
+
+Course/Specialization | offered by | Effort | Repository if any | Certificate Link
+:-- | :-- | :-- | :-- | :--
+The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | A link to the course certificate, because yes.
+
+After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+
+## Main Curriculum.
+
+The main curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
+
+Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+
+After the main curriculum, I've added a section with books and other relevant bibliographies, and a section focused on soft skills and specific skills in some domains that I'm interested in.
+
+Okay, so without further ado, let's get to work!
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+# Learning How to learn
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -82,6 +188,7 @@
 >   <br/>
 > 	
 >  <!--START_SECTION:activity-->
+>  - [Understanding Mathematics](https://github.com/nbro/understanding-math)
 >  - [ How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
 >    * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
 >    * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
@@ -100,19 +207,29 @@
 >  <!--END_SECTION:activity-->
 >   </details>
 
-### 🚩 Recommended Course 
+## 🚩 Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 
-### 📑 Teaching and learning
+## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
 - [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
+- [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
+- [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
 
 ---
-# Simulations and Open online source 🔍 
+# Simulations and Open online source
 > <details>
 >  <summary> 🔧 Website and tool</summary>
 >  <br/>
@@ -135,7 +252,7 @@
 > <!--END_SECTION:activity-->
 > </details>
 
-### 🚩 MIT Course Overvie
+## 🚩 MIT Course Overvie
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Mathematics with Computer Science (Course 18-C)](http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/)
@@ -143,11 +260,11 @@
 - [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
 
-### 🧮 Path to a free self-taught education
+## 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
-### [Dr. Chuck Online](https://online.dr-chuck.com/)
+## [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
 1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
@@ -155,18 +272,28 @@
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
-### Computer Science 💻
+## Computer Science 💻
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
 1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 2. [Complete education in computer science degree](https://github.com/ossu/computer-science)
 3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
+4. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
 ---
-### 🎬 Watch more
+## 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
 
-### Read More article
+## Read More article
 > <details>
 >  <summary> 💻 computer</summary>
 >  <br/>
@@ -192,14 +319,100 @@
 > <!--END_SECTION:activity-->
 > </details>
 
-### Road Map
+## Road Map
 * [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
 
-### Find the best courses, wherever they exist
+## Find the best courses, wherever they exist
 - [Class Central](https://www.classcentral.com/)
-### 📑 Advice
+## 📑 Advice
 * [Paul Graham](http://paulgraham.com/)
 * [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# The process of reflection
+Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
+
+A scaffold for this process is the 4 Rs. The steps below are based on Bain (2002). This 4Rs process is based on the Reflection-On-action described earlier by Dewey, Schon and Van Manen. The process is designed to encourage you to address your ongoing learning from a number of standpoints (practical, cognitive, emotional, your values, your beliefs, your ethics and the political imperatives placed upon you).
+
+<details>
+  <summary> 4 Rs </summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+* **Report** - At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
+* **Relate** - You should draw a relationship between your current personal or theoretical understandings and identify aspects of the observation which have personal meaning or connect with your experience. Relate or make a connection between the incident or issue and your own skills, professional experience, or discipline knowledge. Have I seen this before? Were the conditions the same or different? Do I have the skills and knowledge to deal with this?
+* **Reason** - You should explore the relationship between theory and practice and seek a deep understanding of why something has happened. You can explore or analyse a concept, event or experience by asking questions and looking for answers, reviewing the literature, considering alternatives and multiple perspectives. Highlight in detail significant factors underlying the incident or issue. How would a knowledgeable and/or experienced person perceive/handle this? What are the ethics involved?
+* **Reconstruct** -Discuss improvements which could be made or identify something you need or plan to do or change.  You should be able to generalize and/or apply your learning to other contexts and future professional practice. This may involve developing general principles, formulating personal theories of teaching or taking a stand or position on an issue. How would I deal with this next time? What might work and why? Are there different options? What might happen if ....? Can I make changes which will benefit others?
+* **Report** - At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
+<!--END_SECTION:activity-->
+</details>
+
+### In the context above, please provide a report on:
+<details>
+  <summary>Constructivism</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+You are expected to write about 70 words of your own. The marking scheme is described below.
+- 5 marks: a demonstration of own effort (eg using one's own words and effort) and the answer being in the right direction (pls note that the answer needs not be perfect but it definitely answers what has been asked)
+- 4 marks.  Falling short of the criteria for 5 marks by a fair bit;
+- 3 marks.  Falling short of the criteria for 5 marks by a distance;
+- 2 marks.  Falling short of the criteria for 5 by a big distance (eg not answering the question to the  point)
+- 1 mark.  Lack of effort or answer completely in the wrong direction or an evidence of copying from the Internet or other source
+- 0 mark: Strong evidence of copying from the Internet or other sources or from each other.
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>Marking scheme</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+Many years ago, I did not know a lot about theories of learning. I thought learning takes place after I understand the new knowledge that my teacher imparts to me and I score well in the examination and the assessment tasks. "Constructivism" leads me to have a new understanding of what learning involves, which include:
+* learning is not completely about receiving and understanding the knowledge that my teacher gives me;
+* it is more about what I do with the new knowledge, for examples, how I interpret and understand them, which is very much influenced by my past experiences, background, knowledge in that subject area
+* learning is more about what I do rather than what my teacher does as I have to construct the meaning of the new knowledge myself, ask question, investigate into any thing which I do not understand, explore how it is related to my present and past knowledge.
+
+In conclusion, constructivism is a better way of learning as in the past, I more or less forgot nearly everything which my teacher has taught me after the examination. The knowledge I construct myself correctly with the help of my teacher will stay with me for years,
+<!--END_SECTION:activity-->
+</details>
+
+### Time management
+* [Managing Time and Space](https://docs.google.com/document/d/1oua_LuQI24fcisLjJQUHdBQq6CuSAiE6/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above
+
+- [Awesome Math](https://github.com/Tontan-Hak/awesome-math)
+- [Lecture 1: Probability and Counting | Statistics 110 (Harvard)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [MIT 18.650 Statistics for Applications, Fall 2016 (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics)
+- [TED's Official Public Speaking Course](https://www.youtube.com/playlist?list=PLJicmE8fK0EhSSdarWwp8GKSYUnPd1u8o)
+- [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
+- [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
+- [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
+- [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+- [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
@@ -225,3 +438,4 @@
 	I am happy when I can improve myself just 1% everyday
 | **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
 |:------------:|
+
