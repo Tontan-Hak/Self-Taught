@@ -47,6 +47,7 @@ In regards to the duration of this project, by my calculations, adding up the es
 	
 </div>
 
+---
 ## Learning Goals.
 
 My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
