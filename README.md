@@ -21,13 +21,6 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 	- [Path to a free self-taught education]()
 	- [ Watch more]()
 	- [Read More article]()
-- [Complementary courses]()
-	- [Soft Skills/Domain Knowledge]()
-- [Extra Bibliography]()
-	- [Mathematics Books]()
-	- [Books, articles and related documentation]()
-- [Important Notes]()
-- [References]()
 - [Miscellaneous]()
 
 ---
