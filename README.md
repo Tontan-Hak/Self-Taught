@@ -405,6 +405,7 @@ Just a few sites that don't fit into any of the other areas above
 - [MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [Do you know the 5 love languages? Here’s what they are — and how to use them](https://ideas.ted.com/whats-your-favorite-persons-love-language-heres-how-to-tell-and-how-to-use-it/?utm_source=facebook.com&utm_medium=social&utm_content=2022-11-20&utm_campaign=social&fbclid=IwAR25owRAEi8vp_JEKpDOuZQnSFZGNypAvS3Ud9eFW-Z0j6WS0IUP99rqMkk)
 - [Tim Urban: Inside the mind of a master procrastinator | TED](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Why you procrastinate even when it feels bad](https://www.youtube.com/watch?v=FWTNMzK9vG4)
 - [Introductory Calculus: Oxford Mathematics 1st Year Student Lecture](https://www.youtube.com/playlist?list=PL4d5ZtfQonW0A4VHeiY0gSkX1QEraaacE)
 - [Introduction to University Mathematics](https://www.youtube.com/playlist?list=PL4d5ZtfQonW1xKVEtYJd1iu9m52ATG7SV)
 - [Introduction to Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
