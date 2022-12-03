@@ -248,7 +248,7 @@ Okay, so without further ado, let's get to work!
 > <!--END_SECTION:activity-->
 > </details>
 
-## 🚩 MIT Course Overvie
+## 🚩 MIT Course Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
 - [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/#generalmathematicstext)
 - [Mathematics with Computer Science (Course 18-C)](http://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/)
