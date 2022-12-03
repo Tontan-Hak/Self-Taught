@@ -14,14 +14,14 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 - [How this Repository is Structured](#How-this-Repository-is-Structured)
 - [Main Curriculum](#Main-Curriculum)
 	- [Learning How to Learn](#Learning-How-to-Learn)
-	- [Recommended Course]()
-	- [Teaching and Learning]()
-	- [Simulations and Open online source]()
-	- [MIT Course Overvie]()
-	- [Path to a free self-taught education]()
-	- [ Watch more]()
-	- [Read More article]()
-- [Miscellaneous]()
+	- [Recommended Course](#Recommended-Course)
+	- [Teaching and Learning](#Teaching-and-Learning)
+	- [Simulations and Open online source](#Simulations-and-Open-online-source)
+	- [MIT Course Overvie](#MIT-Course-Overvie)
+	- [Path to a free self-taught education](#Path-to-a-free-self-taught-education)
+	- [Watch more](#Watch-more)
+	- [Read More article](#Read-More-article)
+- [Miscellaneous](#Miscellaneous)
 
 ---
 ## About.
