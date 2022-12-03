@@ -17,7 +17,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 	- [Recommended Course](#Recommended-Course)
 	- [Teaching and Learning](#Teaching-and-Learning)
 	- [Simulations and Open online source](#Simulations-and-Open-online-source)
-	- [MIT Course Overvie](#MIT-Course-Overvie)
+	- [MIT Course Overview](#MIT-Course-Overview)
 	- [Path to a free self-taught education](#Path-to-a-free-self-taught-education)
 	- [Watch more](#Watch-more)
 	- [Read More article](#Read-More-article)
