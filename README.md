@@ -285,54 +285,6 @@ Okay, so without further ado, let's get to work!
 </div>
 
 ---
-## 🎬 Watch more
-> * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
-> * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
-
-## Read More article
-> <details>
->  <summary> 💻 computer</summary>
->  <br/>
->    
-> <!--START_SECTION:activity-->
-> - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
-> - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
-> - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
-> - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
-> - [What is Software Engineering?](https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/)
-> - [What is a Full Stack Developer? Back End + Front End = Full Stack Engineer](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
-> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
-> - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
-> - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
-> - [Computer Science VS Information Technology – What's the Difference Between CS and IT?](https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/)
-> - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
-> - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
-> - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
-> - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
-> - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
-> - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
-> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
-> <!--END_SECTION:activity-->
-> </details>
-
-## Road Map
-* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
-
-## Find the best courses, wherever they exist
-- [Class Central](https://www.classcentral.com/)
-## 📑 Advice
-* [Paul Graham](http://paulgraham.com/)
-* [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
-
-##
-
-<div align="right">
-	
-[Go to the top](#Contents)
-	
-</div>
-
----
 # The process of reflection
 Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
 
@@ -383,6 +335,54 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 
 ### Time management
 * [Managing Time and Space](https://docs.google.com/document/d/1oua_LuQI24fcisLjJQUHdBQq6CuSAiE6/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+## 🎬 Watch more
+> * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
+> * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
+
+## Read More article
+> <details>
+>  <summary> 💻 computer</summary>
+>  <br/>
+>    
+> <!--START_SECTION:activity-->
+> - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
+> - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
+> - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
+> - [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/?fbclid=IwAR2MOM6ydxFT-T18_v2pvgMYqGqPBcG9_G9p1veCYIzBlYdo8_N9K7vfTeA)
+> - [What is Software Engineering?](https://www.freecodecamp.org/news/what-is-software-engineering-how-to-become-a-software-engineer/)
+> - [What is a Full Stack Developer? Back End + Front End = Full Stack Engineer](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/)
+> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
+> - [Frontend VS Backend – What's the Difference?](https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/)
+> - [What is a Computer Scientist? What Exactly Do CS Majors Do?](https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/)
+> - [Computer Science VS Information Technology – What's the Difference Between CS and IT?](https://www.freecodecamp.org/news/computer-science-vs-information-technology-whats-the-difference/)
+> - [What is Data Science? What a Data Scientist Actually Does](https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/)
+> - [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/?fbclid=IwAR3tqDDjc5HaAn1O149EEJcfbKntiX98XL6jB0qHgPPOJ7hhCmD524_jOnk)
+> - [UX vs UI – What's the Difference? Definition and Meaning](https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/?fbclid=IwAR3kbCHM9DPcNyF3WYkV-m9zHVuYZnhTooJpZzymqdQ-yUC437R2DmXdp0A)
+> - [How to Set an Environment Variable in Linux](https://www.freecodecamp.org/news/how-to-set-an-environment-variable-in-linux/)
+> - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
+> - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
+> - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
+> <!--END_SECTION:activity-->
+> </details>
+
+## Road Map
+* [roadmap.sh](https://roadmap.sh/pdfs?fbclid=IwAR3xUciH9qbFMnbnOiyr60idmfiR0tMPNANZ1Q3ZuJLcoq-lL_mjbuHgcyc)
+
+## Find the best courses, wherever they exist
+- [Class Central](https://www.classcentral.com/)
+## 📑 Advice
+* [Paul Graham](http://paulgraham.com/)
+* [Kevin Zhou](https://knzhou.github.io/?fbclid=IwAR3YuCDlUzAfwI3tEHD_TN0cv8BEGAHi0Nt9FWFiaENO8yQ0tXI8q4GM4UA)
 
 ##
 
