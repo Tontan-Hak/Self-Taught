@@ -255,11 +255,13 @@ Okay, so without further ado, let's get to work!
 - [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 - [MIT curriculum for computer science](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
 - [Electrical Engineering and Computer Science (Course 6-2)](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/)
+- [Data Science](https://github.com/marcoshsq/DataScienceCurriculum)
 
 ## 🧮 Path to a free self-taught education
 - [ossu Self taught maths](https://github.com/Tontan-Hak/self_taught_math)
 - [seft taught computer science](https://github.com/Tontan-Hak/seft-taught-computer-science)
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
+- [The Open-Source Mathematics Degree](https://github.com/shanirivers/open-source-mathematics-degree)
 ## [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
 1. [Python For Everybody](https://www.py4e.com/lessons)
