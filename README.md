@@ -48,9 +48,6 @@ My main focus is to learn the contents following this [roadmap here](https://i.a
 But here is an overview list of concepts and skills I want to learn by the end of this "degree":
 
 - Programming (Python, R and Java);
-- Databases, Business Intelligence and Data warehousing;
-- Data Visualization and Presentation Skills;
-- Artificial Intelligence (Machine Learning, Deep Learning, Neural Networks, CV and NLP).
 
 This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
 
