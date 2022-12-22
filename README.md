@@ -30,7 +30,7 @@ This is a curated list of free courses from reputable universities (e.g. MIT, St
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
-In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?. (ﾉ◕ヮ◕)ﾉ ヽ(^◇^*)/
+In regards to the duration of this project, by my calculations, adding up the estimated hours of courses, projects, books, articles and other supplementary materials (that is not accounted for here), I believe that this whole curriculum should be around 4000 hours, so with a weekly effort of 20 hours it's possible to finish it in four years... look how cool, right?.
 
 ##
 
