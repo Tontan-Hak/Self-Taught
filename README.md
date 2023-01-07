@@ -371,6 +371,7 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 > - [Markdown Cheat Sheet – How to Write Articles in Markdown Language](https://www.freecodecamp.org/news/markdown-cheatsheet/?fbclid=IwAR1U4UKXTGJXTZajL9uhZhkLivLX2-dvB9Xa9ipSbcYIo9ncuFIpcU11f_E)
 > - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
 > - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
+> - [What is Computational Thinking?](https://digitalpromise.org/initiative/computational-thinking/computational-thinking-for-next-generation-science/what-is-computational-thinking/)
 > <!--END_SECTION:activity-->
 > </details>
 
