@@ -372,6 +372,7 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 > - [What is Localhost? Local Host IP Address Explained](https://www.freecodecamp.org/news/what-is-localhost/)
 > - [How to Become a Front End Developer – Front End Web Dev Skills](https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/)
 > - [What is Computational Thinking?](https://digitalpromise.org/initiative/computational-thinking/computational-thinking-for-next-generation-science/what-is-computational-thinking/)
+> - [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners](https://www.youtube.com/watch?v=JTxsNm9IdYU)
 > <!--END_SECTION:activity-->
 > </details>
 
