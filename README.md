@@ -289,7 +289,7 @@ Okay, so without further ado, let's get to work!
 ## Software Engineer 💻
 1. [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
 1. [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
-1. []()
+1. [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
 
 ##
 
