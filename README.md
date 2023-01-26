@@ -285,6 +285,21 @@ Okay, so without further ado, let's get to work!
 </div>
 
 ---
+
+## Software Engineer 💻
+1. [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
+1. [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
+1. []()
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 # The process of reflection
 Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
 
