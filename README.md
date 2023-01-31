@@ -268,6 +268,7 @@ Okay, so without further ado, let's get to work!
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
 
 ## Computer Science 💻
+[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://free-compsci-degree-imc.notion.site/The-Open-Source-Computer-Science-Degree-b799dc75720c48fcb602e58c0c103155)
 1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
 1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
 1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
