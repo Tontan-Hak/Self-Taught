@@ -370,6 +370,7 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 >  <br/>
 >    
 > <!--START_SECTION:activity-->
+> - [What is Programming?](https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/?fbclid=IwAR0x2QMuBjIPOQNgFgyZEi-j1uICj907DearYpAsF3upn0u_IeYNz57JkcU)
 > - [Command Line Commands – CLI Tutorial](https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/)
 > - [Git and Github](https://www.freecodecamp.org/news/git-and-github-for-beginners/?fbclid=IwAR2Ja0fjNRBCqzqwybaaxEC1CEEkR4Su0ObCfrBIcnmGbFKr0gEh5VGCdO0) | [How to Use Git and GitHub – Introduction for Beginners](https://www.freecodecamp.org/news/introduction-to-git-and-github/?fbclid=IwAR09duTD5SNEiIMEiSuhuBbaM-O3UNmlGJFfoljwbbBXt-cc53sVSlyMo7E#why-should-you-learn-git-and-github) | [Git vs GitHub – What is Version Control and How Does it Work?](https://www.freecodecamp.org/news/git-and-github-overview/)
 > - [What is PHP](https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/?fbclid=IwAR3FovQJ4Sb_c7flCB_Kwt7JEw8WZG3WiRRA2N7LgDSI2UUTHF0l41xB8Oo)
