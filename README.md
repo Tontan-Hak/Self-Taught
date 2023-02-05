@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=Self-Taught&color=brightgreen&label=VISITORS)
 
 **Quote**
-| **“The first principle is that you must not fool yourself and you are the easiest person to fool.”**  `Richard P. Feynman` |
-|:--------------:| 
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:| 
 ---
 The open-source for learning anything. Inspired by The [
 Open Source Society University](https://github.com/ossu) & [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), this project aims to do the self-taught education. The following document outlines free online courses from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to pace and structure the course according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; liberal arts or "GenEd" courses have been omitted.
@@ -462,5 +462,3 @@ Just a few sites that don't fit into any of the other areas above
 
 	💪 It should be one of our mission to improve everyday for the better
 	I am happy when I can improve myself just 1% everyday
-| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
-|:------------:|
