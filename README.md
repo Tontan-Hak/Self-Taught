@@ -277,6 +277,7 @@ Okay, so without further ado, let's get to work!
 4. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 5. [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 1. [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710)
+1. [How I Take Notes for Computer Science using NOTION](https://www.youtube.com/watch?v=buW9OMD2QeQ&t=115s)
 
 ##
 
