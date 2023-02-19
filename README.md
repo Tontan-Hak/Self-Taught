@@ -261,11 +261,13 @@ Okay, so without further ado, let's get to work!
 - [Data Science](https://github.com/marcoshsq/DataScienceCurriculum)
 ## [Dr. Chuck Online](https://online.dr-chuck.com/)
 1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-1. [Python For Everybody](https://www.py4e.com/lessons)
+1. [Python For Everybody (Py4E)](https://www.py4e.com/lessons)
 1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
 1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
 1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
 1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
+1. Computer Architecture for Everybody
+1. Java Enterprise Application Development for Everybody
 
 ## Computer Science 💻
 [Open Source Society University Computer Science Degree](https://github.com/ossu/computer-science)
