@@ -222,28 +222,10 @@ Okay, so without further ado, let's get to work!
 </div>
 
 ---
-# Simulations and Open online source
-> <details>
->  <summary> 🔧 Website and tool</summary>
->  <br/>
->    
-> <!--START_SECTION:activity-->
-> - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
-> - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
-> - [🌐 OpenStax](https://openstax.org/subjects)
-> - [🌐 Better Explained](https://betterexplained.com/)
-> - [🌐 Youcubed](https://www.youcubed.org/)
-> - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
-> - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
-> - [🌐 edx](https://www.edx.org/)
-> - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
-> - [🌐 FreeCodeCamp](https://www.freecodecamp.org/learn/)  
-> - [🌐 W3school](https://www.w3schools.com/)
-> - [🌐 Codecademy](https://www.codecademy.com/catalog)
-> - [🌐 Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
-> - [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
-> <!--END_SECTION:activity-->
-> </details>
+# Math prerequisites
+* [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [Algebra](https://www.khanacademy.org/math/algebra-home)
+* [Geometry](https://www.khanacademy.org/math/geometry-home)
 
 ## 🚩 MIT Course Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
@@ -364,6 +346,28 @@ In conclusion, constructivism is a better way of learning as in the past, I more
 </div>
 
 ---
+# Simulations and Open online source
+> <details>
+>  <summary> 🔧 Website and tool</summary>
+>  <br/>
+>    
+> <!--START_SECTION:activity-->
+> - [🌐 Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
+> - [🌐 Geogebra](https://www.geogebra.org/u/tontanhak97)
+> - [🌐 OpenStax](https://openstax.org/subjects)
+> - [🌐 Better Explained](https://betterexplained.com/)
+> - [🌐 Youcubed](https://www.youcubed.org/)
+> - [🌐 CK-12](https://www.ck12.org/my/dashboard-new/)
+> - [🌐 Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+> - [🌐 edx](https://www.edx.org/)
+> - [🌐 Coursera](https://www.coursera.org/programs/placeholder-gzyqu?currentTab=CATALOG)
+> - [🌐 FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+> - [🌐 W3school](https://www.w3schools.com/)
+> - [🌐 Codecademy](https://www.codecademy.com/catalog)
+> - [🌐 Linkedin Learning](https://www.linkedin.com/learning/?u=35754684)
+> - [🌐 MIT OpenCourseWare](https://ocw.mit.edu/)
+> <!--END_SECTION:activity-->
+> </details>
 ## 🎬 Watch more
 > * [Shimon Schocken: The self-organizing computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 > * [Can you get an MIT education for $2,000? | Scott Young](https://www.youtube.com/watch?v=piSLobJfZ3c)
