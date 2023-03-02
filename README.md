@@ -224,8 +224,12 @@ Okay, so without further ado, let's get to work!
 ---
 # Math prerequisites
 * [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
+* [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
 * [Algebra](https://www.khanacademy.org/math/algebra-home)
 * [Geometry](https://www.khanacademy.org/math/geometry-home)
+* [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+* [Calculus 1](https://www.khanacademy.org/math/calculus-1)
+* [Calculus 2](https://www.khanacademy.org/math/calculus-2)
 
 ## 🚩 MIT Course Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
