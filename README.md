@@ -281,65 +281,7 @@ Okay, so without further ado, let's get to work!
 1. [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
 1. [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
 1. [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
-
-##
-
-<div align="right">
-	
-[Go to the top](#Contents)
-	
-</div>
-
----
-# The process of reflection
-Reflection is not only a description of 'what you've seen' or 'what you've done', but rather it is a process of drawing comparisons with what happened, what you already know, relating this experience to the theories you have been introduced to and modifying your own ideas and professional practice in light of this reflection.
-
-A scaffold for this process is the 4 Rs. The steps below are based on Bain (2002). This 4Rs process is based on the Reflection-On-action described earlier by Dewey, Schon and Van Manen. The process is designed to encourage you to address your ongoing learning from a number of standpoints (practical, cognitive, emotional, your values, your beliefs, your ethics and the political imperatives placed upon you).
-
-<details>
-  <summary> 4 Rs </summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-* **Report** - At this stage you describe, report or re-tell the key elements of what you have learnt, seen or experienced. Why is it relevant? Respond to the incident or issue by making observations, expressing your opinion, or asking questions
-* **Relate** - You should draw a relationship between your current personal or theoretical understandings and identify aspects of the observation which have personal meaning or connect with your experience. Relate or make a connection between the incident or issue and your own skills, professional experience, or discipline knowledge. Have I seen this before? Were the conditions the same or different? Do I have the skills and knowledge to deal with this?
-* **Reason** - You should explore the relationship between theory and practice and seek a deep understanding of why something has happened. You can explore or analyse a concept, event or experience by asking questions and looking for answers, reviewing the literature, considering alternatives and multiple perspectives. Highlight in detail significant factors underlying the incident or issue. How would a knowledgeable and/or experienced person perceive/handle this? What are the ethics involved?
-* **Reconstruct** -Discuss improvements which could be made or identify something you need or plan to do or change.  You should be able to generalize and/or apply your learning to other contexts and future professional practice. This may involve developing general principles, formulating personal theories of teaching or taking a stand or position on an issue. How would I deal with this next time? What might work and why? Are there different options? What might happen if ....? Can I make changes which will benefit others?
-<!--END_SECTION:activity-->
-</details>
-
-### In the context above, please provide a report on:
-<details>
-  <summary>Constructivism</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-You are expected to write about 70 words of your own. The marking scheme is described below.
-- 5 marks: a demonstration of own effort (eg using one's own words and effort) and the answer being in the right direction (pls note that the answer needs not be perfect but it definitely answers what has been asked)
-- 4 marks.  Falling short of the criteria for 5 marks by a fair bit;
-- 3 marks.  Falling short of the criteria for 5 marks by a distance;
-- 2 marks.  Falling short of the criteria for 5 by a big distance (eg not answering the question to the  point)
-- 1 mark.  Lack of effort or answer completely in the wrong direction or an evidence of copying from the Internet or other source
-- 0 mark: Strong evidence of copying from the Internet or other sources or from each other.
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>Marking scheme</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-Many years ago, I did not know a lot about theories of learning. I thought learning takes place after I understand the new knowledge that my teacher imparts to me and I score well in the examination and the assessment tasks. "Constructivism" leads me to have a new understanding of what learning involves, which include:
-* learning is not completely about receiving and understanding the knowledge that my teacher gives me;
-* it is more about what I do with the new knowledge, for examples, how I interpret and understand them, which is very much influenced by my past experiences, background, knowledge in that subject area
-* learning is more about what I do rather than what my teacher does as I have to construct the meaning of the new knowledge myself, ask question, investigate into any thing which I do not understand, explore how it is related to my present and past knowledge.
-
-In conclusion, constructivism is a better way of learning as in the past, I more or less forgot nearly everything which my teacher has taught me after the examination. The knowledge I construct myself correctly with the help of my teacher will stay with me for years,
-<!--END_SECTION:activity-->
-</details>
-
-### Time management
-* [Managing Time and Space](https://docs.google.com/document/d/1oua_LuQI24fcisLjJQUHdBQq6CuSAiE6/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
+1. [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 
 ##
 
