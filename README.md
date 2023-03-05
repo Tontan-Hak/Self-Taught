@@ -25,7 +25,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 ---
 ## About.
 
-This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
+This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Computer Science, Mathematics degree, minus general education.
 
 To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
@@ -41,22 +41,6 @@ In regards to the duration of this project, by my calculations, adding up the es
 
 ---
 ## Learning Goals.
-
-This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Computer Science, Mathematics degree, minus general education.
-
-To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
-
-##
-
-<div align="right">
-	
-[Go to the top](#Contents)
-	
-</div>
-
----
-
-## Main Curriculum.
 
 My main focus is to learn the contents following online open source, inspire by OSSU. 
 
