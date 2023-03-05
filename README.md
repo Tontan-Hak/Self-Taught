@@ -222,6 +222,107 @@ Okay, so without further ado, let's get to work!
 </div>
 
 ---
+# How I start learning code (Self-Study)
+I am happy when I can improve myself just 1% everyday.
+  1. [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+  1. [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
+  1. [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+  1. [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+  1. [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+  1. [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+  1. [ODIN PROJECT](https://www.theodinproject.com/)
+  1. [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+  1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  1. [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+  1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+  1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+  
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Computer Science
+1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
+1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+1. [OSSU CS timeline](https://docs.google.com/spreadsheets/d/1VrIrtKGEAohCUygF-Y4UNsU5v2mWivNF6VvnWyTayRQ/edit?usp=sharing)
+1. [Open Source Society University Computer Science Degree](https://github.com/ossu)
+
+[Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+### MIT challenge in computer science
+- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/search/)
+- [Free Notion Template to track your progress in MIT Challenge](https://www.notion.so/MIT-Challenge-Computer-Science-Degree-2855ebe52bf345a5ba4ffe87951268d9)
+
+### Software Engineer
+- [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
+- [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
+- [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
+- [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
+# [Dr. Chuck Online](https://online.dr-chuck.com/)
+1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
+1. [Python For Everybody (PY4E)](https://www.py4e.com/lessons)
+1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
+1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
+1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
+1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
+1. Computer Architecture for Everybody
+1. Java Enterprise Application Development for Everybody
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Course recommendation 
+   * [Introduction to Computer Information Systems Specialization](https://www.coursera.org/specializations/introduction-computer-infosystems) | [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   * [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [Introduction To Computer Science And Programming (MIT)](https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/pages/syllabus/)
+   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+   * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+   * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+   * [Computer Science for Web Programming](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+   * [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+   * [Learn to think computationally and write programs to tackle useful problems](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
+   * [Introduction To Algorithms (SMA 5503)](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
+   * [Mathematics for Computer Science MIT](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+   * [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+   * [Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)  
+   * [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+   * [How To Speak](https://ocw.mit.edu/courses/res-tll-005-how-to-speak-january-iap-2018/)
+   * [Introduction To Computer Science And Programming](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+   * [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+   * [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
+   * [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+   * [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
+   * [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
 # Math prerequisites
 * [Arithmetics](https://www.khanacademy.org/math/arithmetic-home)
 * [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)
@@ -230,6 +331,65 @@ Okay, so without further ado, let's get to work!
 * [Pre-calculus](https://www.khanacademy.org/math/precalculus)
 * [Calculus 1](https://www.khanacademy.org/math/calculus-1)
 * [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Mathematics
+- [18.01.1x Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)
+- [18.01.2x Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)
+- [18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)
+- [18.02.1x Multivariable Calculus 1: Vectors and Derivatives](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives)
+- [18.031x Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
+- [18.032x Differential Equations: 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems)
+- [18.033x NxN systems](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-syst)
+- [18.03Fx Fourier](https://www.edx.org/course/differential-equations-fourier-series-and-partial)
+- [18.03Lx Laplace](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
+- [18.02.2x Multivariable Calculus 1: Integrals NEW!](https://www.edx.org/course/multivariable-calculus-2-surfaces-and-integrals)
+- [18.031 System Functions and the Laplace Transform](https://ocw.mit.edu/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/)
+- [18.06SC Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Introduction To Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+- [Highlights Of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/)
+- [Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
+- [Graph Theory And Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/)
+- [Introduction To Functional Analysis](https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/)
+- [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+- [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+- [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+- [A 2020 Vision Of Linear Algebra](https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+- [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [Introduction to linear algebra and ordinary differential equations](https://ocw.mit.edu/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/)
+- [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+- [Introduction to algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [Mathematics Of Big Data And Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+- [Probabilistic Systems Analysis And Applied Probability](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [Introduction To MATLAB Programming](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
+- [Learn the principles of calculus through real-world applications](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
+- [Learn techniques to interpret and solve differential equations](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
+
+##
+
+<div align="right">
+	
+[Go to the top](#Contents)
+	
+</div>
+
+---
+# Open Source Education
+- [Complete education in computer science](https://github.com/ossu/computer-science)
+- [Complete education in mathematics](https://github.com/ossu/math)
+- [Data Science](https://github.com/ossu/data-science)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 ## 🚩 MIT Course Overview
 - [Math Subjects Overview](https://math.mit.edu/academics/undergrad/subjects/)
@@ -245,43 +405,6 @@ Okay, so without further ado, let's get to work!
 - [Self taught data scinece](https://github.com/Tontan-Hak/self-taught-data-science)
 - [The Open-Source Mathematics Degree](https://github.com/shanirivers/open-source-mathematics-degree)
 - [Data Science](https://github.com/marcoshsq/DataScienceCurriculum)
-## [Dr. Chuck Online](https://online.dr-chuck.com/)
-1. [Internet History, Security, and Technology (IHTS)](https://ihts.pr4e.com/lessons)
-1. [Python For Everybody (Py4E)](https://www.py4e.com/lessons)
-1. [Django for Everybody (DJ4E)](https://www.dj4e.com/lessons)
-1. [Web Applications for Everybody (WA4E)](https://www.wa4e.com/lessons)
-1. [PostgreSQL for Everybody (PG4E)](https://www.pg4e.com/lessons)
-1. [C Programming for Everybody (CC4E) 42](https://www.cc4e.com/lessons)
-1. Computer Architecture for Everybody
-1. Java Enterprise Application Development for Everybody
-
-## Computer Science 💻
-[Open Source Society University Computer Science Degree](https://github.com/ossu/computer-science)
-1. [Computer Science guide](https://drive.google.com/file/d/1ddRjY8pe8YwCW0CQ-zUGyGOfEOTDkomt/view?usp=sharing)
-1. [CS50 syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
-1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-2. [Complete education in computer science degree](https://github.com/ossu/computer-science)
-3. [10 Best Computer Science Courses to Take in 2022](https://www.freecodecamp.org/news/best-computer-science-courses/)
-4. [Introduction To Computer Science And Programming In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-5. [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-1. [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710)
-1. [How I Take Notes for Computer Science using NOTION](https://www.youtube.com/watch?v=buW9OMD2QeQ&t=115s)
-
-##
-
-<div align="right">
-	
-[Go to the top](#Contents)
-	
-</div>
-
----
-
-## Software Engineer 💻
-1. [Software Engineering Courses - SE Courses](https://www.youtube.com/playlist?list=PL_pbwdIyffslgxMVyXhnHiSn_EWTvx1G-)
-1. [Software-Engineering-CSE307-2020 (Github)](https://github.com/FurkanGozukara/Software-Engineering-CSE307-2020)
-1. [Book](https://drive.google.com/file/d/1cgQzJxxX0ZgUkiyilRMv8EChDt-qR10D/view?usp=share_link)
-1. [Software Engineering Specialization](https://www.coursera.org/specializations/software-engineering)
 
 ##
 
