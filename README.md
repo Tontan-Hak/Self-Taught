@@ -11,7 +11,6 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 
 - [About](#About)
 - [Learning Goals](#Learning-Goals)
-- [How this Repository is Structured](#How-this-Repository-is-Structured)
 - [Main Curriculum](#Main-Curriculum)
 	- [Learning How to Learn](#Learning-How-to-Learn)
 	- [Recommended Course](#Recommended-Course)
@@ -43,37 +42,9 @@ In regards to the duration of this project, by my calculations, adding up the es
 ---
 ## Learning Goals.
 
-My main focus is to learn the contents following this [roadmap here](https://i.am.ai/roadmap/), created by the AI expert guys. 
+This is a curated list of free courses from reputable universities (e.g. MIT, Stanford, Johns Hopkins University, etc.) that satisfy the same requirements as an undergraduate curriculum for Computer Science, Mathematics degree, minus general education.
 
-But here is an overview list of concepts and skills I want to learn by the end of this "degree":
-
-- Programming (Python, R and Java);
-
-This is just an overview, if you want more details I recommend reading the main curriculum, and if you want a complete guide take a look at the roadmap. They created a guide describing all the skills and concepts needed to become an expert in Data Science and/or AI, in a cohesive and intuitive way.
-
-##
-
-<div align="right">
-	
-[Go to the top](#Contents)
-	
-</div>
-
----
-
-## How this Repository is Structured.
-
-This repository is divided into five main sections, which contain the courses divided by themes, each section starts with an introduction, describing what my objectives are with those courses and my learning goals.
-
-After that, we have a table with the courses, which are structured in an order of difficulty or themes, but the sections are not sequential, with the exception of the first, which is an introduction, and the last, which requires a deeper knowledge of statistics.
-
-Regarding the courses table, it has the following structure:
-
-Course/Specialization | offered by | Effort | Repository if any | Certificate Link
-:-- | :-- | :-- | :-- | :--
-The name of the course with a link to it. | The name of the institution providing the course. | An estimate of the duration of the course. | Many of the courses have projects, here are the links to the repositories containing these projects. | A link to the course certificate, because yes.
-
-After these five main sections we have a complementary section, which follows the same structure, and we end with a bibliography with links to books I used for consultation.
+To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
 ##
 
@@ -87,13 +58,14 @@ After these five main sections we have a complementary section, which follows th
 
 ## Main Curriculum.
 
-The main curriculum is divided into five sections: Fundamentals of Data Science, Mathematics, Computing and Programming, Databases and Big Data and Artificial Intelligence.
+My main focus is to learn the contents following online open source, inspire by OSSU. 
 
-Section 01 focuses on the basics of the Data field, and what advantages the use of data can bring. Section 02 is intended to be a boost to my math studies, but with a greater focus on computational math and modeling. Section 03 is about learning to code, in addition to other computer science related topics. Section 04 is all about Databases and Big Data, it´s tools and applications. And lastly, Section 05 is focused on Artificial Intelligence, and is the longest part of this specialization.
+But here is an overview list of concepts and skills I want to learn by the end of this "Course":
 
-After the main curriculum, I've added a section with books and other relevant bibliographies, and a section focused on soft skills and specific skills in some domains that I'm interested in.
+- Learning how to learn
+- How to become a self-taught programming
+- Programming (Python, Web development and Software engineering);
 
-Okay, so without further ado, let's get to work!
 
 ##
 
