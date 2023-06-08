@@ -164,10 +164,8 @@ But here is an overview list of concepts and skills I want to learn by the end o
 - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 
 ## 📑 Teaching and learning
-- [🚩 Uncommon Sense Teaching](https://www.coursera.org/learn/uncommon-sense-teaching)
-- [🚩 Uncommon Sense Teaching: Part 2, Building Community and Habits of Learning](https://www.coursera.org/learn/building-community-habits-of-learning)
-- [🚩 Uncommon Sense Teaching: Teaching Online](https://www.coursera.org/learn/teaching-online)
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
+- [🚩 Constructivism and Mathematics, Science, and Technology Education](https://www.coursera.org/learn/constructivism)
 
 ##
 
