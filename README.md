@@ -212,7 +212,7 @@ I am happy when I can improve myself just 1% everyday.
 - [Learning Python for Data Science](https://www.edx.org/professional-certificate/harvardx-learning-python-for-data-science)
 - [Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
 - [Computer Science for Game Development](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development)
-- [CS50's Introduction to Databases with SQL]()
+- [CS50's Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
 
 
 [Free Notion Template to track your progress in OSSU (Open Source Society University Computer Science Degree)](https://witty-yoke-50c.notion.site/Free-Template-Computer-Science-Degree-d6d8bc6e7fc44ddd86e4432c0b04ba2a)
