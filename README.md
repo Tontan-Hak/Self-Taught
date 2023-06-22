@@ -176,8 +176,8 @@ But here is an overview list of concepts and skills I want to learn by the end o
 </div>
 
 ---
-# How I start learning code (Self-Study)
-I am happy when I can improve myself just 1% everyday.
+# How I start learning code 
+
   1. [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
   1. [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
   1. [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
