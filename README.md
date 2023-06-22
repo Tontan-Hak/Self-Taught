@@ -176,20 +176,80 @@ But here is an overview list of concepts and skills I want to learn by the end o
 </div>
 
 ---
-# How I start learning code 
-
-  1. [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
-  1. [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
-  1. [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  1. [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-  1. [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
-  1. [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
-  1. [ODIN PROJECT](https://www.theodinproject.com/)
-  1. [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
-  1. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-  1. [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-  1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
-  1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+# How I start learning code
+> <details>
+>  <summary>⏳ Study Course Roadmap</summary>
+>  <br/>
+>
+> <!--START_SECTION:activity-->
+>  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
+>  - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+>  - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
+>  - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
+>  - [X] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
+>  - [X] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+>  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+>  - [X] [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/)
+>  - [X] [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+>  - [ ] [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
+>  - [ ] [ODIN PROJECT](https://www.theodinproject.com/)
+>  - [ ] [Google Project Management:](https://www.coursera.org/professional-certificates/google-project-management)
+>  - [ ] [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+>  - [ ] [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+>  - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+>  - [ ] [CS50's Introduction to Cybersecurity](https://www.edx.org/course/cs50s-introduction-to-cybersecurity)
+> <!--END_SECTION:activity-->
+> </details>
+>
+> <details>
+>  <summary>🚩 Four Foundational Steps </summary>
+>  <br/>
+>
+> <!--START_SECTION:activity-->
+>
+> - Step 1: Learn program fundamental (Ex:How the computer work, how software work, Python, ...)
+> - Step 2 
+>   1. Backend and /or Frontend development - EG, Django or react
+>   1. Break into big tech: Learn Data Structure Algorithm
+>   1. Learn Data science/AI/Machine Learning
+>   1. Fullstack online bootcamp
+> - Step 3: 2-3 impressive portfolio project
+>   * a range of skills
+>   * Create read update delete
+>       1. User authentication
+>       1. Database
+>       1. API
+> - Step 4: study for interview and Start applying 
+>	
+> <!--END_SECTION:activity-->
+> </details>
+>
+> <details>
+>  <summary>💻 Start to Code With the basic understanding of: </summary>
+>  <br/>
+> 
+> <!--START_SECTION:activity--> 
+>  * Variables 
+>  * Loops 
+>  * Control flow
+>  * Data types
+>  * Functions
+>
+>  <!--END_SECTION:activity-->
+> </details>
+>
+>  <details>
+>   <summary>⚡ strategy </summary>
+>   <br/>
+> 
+>  <!--START_SECTION:activity-->
+>   - Solve the problem conceptually 
+>   - Apply that conceptual understanding into code
+>   - Looking up the answer 
+>   - Understand the solution 
+>   - Learn what is the parttern
+>  <!--END_SECTION:activity-->
+> </details>
   
 ##
 
