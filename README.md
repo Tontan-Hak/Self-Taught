@@ -157,11 +157,18 @@ But here is an overview list of concepts and skills I want to learn by the end o
 >   </details>
 
 ## 🚩 Recommended Course 
-- [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
-- [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
-- [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
-- [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
-- [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
+> <details>
+>  <summary> Learning how to learn </summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->
+> - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
+> - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+> - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
+> - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
+> - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
+>  <!--END_SECTION:activity-->
+>   </details>
 
 ## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
