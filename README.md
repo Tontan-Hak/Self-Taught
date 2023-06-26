@@ -169,7 +169,7 @@ But here is an overview list of concepts and skills I want to learn by the end o
 > - [🔖 How to learn math: For students](https://www.edx.org/course/how-to-learn-math-for-students-2)
 >  <!--END_SECTION:activity-->
 >   </details>
-
+>
 > <details>
 >  <summary> Books </summary>
 >  <br/>
@@ -178,9 +178,9 @@ But here is an overview list of concepts and skills I want to learn by the end o
 > - [Learn like a pro](https://drive.google.com/file/d/1dsj4JgQtqt5NBRvsOHMnB59M_nBNA7h3/view?usp=sharing)
 > - [Make it stick](https://drive.google.com/file/d/1xoiKkTZI-16dJtb4NEGZNH3kngrC5vF0/view?usp=sharing)
 > - [Deep work](https://drive.google.com/file/d/1sMHGjwZqQCPpECVKtQAU6qFYErALoYQC/view?usp=sharing)
-> <details>
->  <summary> Learning how to learn </summary>
->  <br/>
+>  <!--END_SECTION:activity-->
+>   </details>
+
 ## 📑 Teaching and learning
 - [🚩 Uncommon Sense Teaching Specialization](https://www.coursera.org/specializations/uncommon-sense-teaching-certificate)
 - [🚩 Constructivism and Mathematics, Science, and Technology Education](https://www.coursera.org/learn/constructivism)
