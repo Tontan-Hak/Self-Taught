@@ -370,6 +370,7 @@ But here is an overview list of concepts and skills I want to learn by the end o
 * [Pre-calculus](https://www.khanacademy.org/math/precalculus)
 * [Calculus 1](https://www.khanacademy.org/math/calculus-1)
 * [Calculus 2](https://www.khanacademy.org/math/calculus-2)
+* [Self Study Guides for Math](https://www.youtube.com/playlist?list=PLapqQU8bF_-8waAcQcTLf0ypp0511qWjX)
 
 ##
 
