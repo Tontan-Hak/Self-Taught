@@ -204,7 +204,7 @@ But here is an overview list of concepts and skills I want to learn by the end o
 >  - [x] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
 >  - [X] [START HERE: Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
 >  - [x] [Internet History, Security, and Technology (IHTS)](https://www.coursera.org/learn/internet-history)
->  - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+>  - [x] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 >  - [X] [Python for Everybody Specialization](https://www.coursera.org/specializations/python) 
 >  - [ ] [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
 >  - [ ] [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
