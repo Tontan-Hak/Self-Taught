@@ -263,10 +263,10 @@ But here is an overview list of concepts and skills I want to learn by the end o
 > 
 >  <!--START_SECTION:activity-->
 >   - Solve the problem conceptually 
->   - Apply that conceptual understanding into code
+>   - Apply that conceptual understanding to code
 >   - Looking up the answer 
 >   - Understand the solution 
->   - Learn what is the parttern
+>   - Learn what is the pattern
 >  <!--END_SECTION:activity-->
 > </details>
   
@@ -565,8 +565,8 @@ Just a few sites that don't fit into any of the other areas above
 <!--END_SECTION:activity-->
 </details>
 
-	💪 It should be one of our mission to improve everyday for the better
-	I am happy when I can improve myself just 1% everyday 
+	💪 It should be one of our mission to improve every day for the better
+	I am happy when I can improve myself by just 1% every day 
  
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
@@ -579,4 +579,3 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Self-Taught/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Taught?color=2b9348" alt="License Badge"/></a>
 
 --- 
-
